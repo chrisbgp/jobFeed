@@ -187,7 +187,7 @@ jobs:
             const target = Math.min(expected, MAX_RESULTS);
             const readRows = () => page.locator('table tbody tr').evaluateAll(trs => trs.flatMap(tr => {
               const cells = [...tr.querySelectorAll('td')].map(td => td.innerText.trim().replace(/\s+/g, ' '));
-              const id = cells[0]?.match(/^(\d+)\b/)?.[1];
+              const id = cells[0]?.match(/^(\d{6,})\b/)?.[1];
               return id ? [{ id, cells }] : [];
             }));
             let rows = await readRows();
@@ -199,7 +199,7 @@ jobs:
               const before = rows.length;
               await more.click();
               await page.waitForFunction(previous => {
-                const rows = [...document.querySelectorAll('table tbody tr')].filter(tr => /^\d+\b/.test(tr.innerText.trim()));
+                const rows = [...document.querySelectorAll('table tbody tr')].filter(tr => /^\d{6,}\b/.test(tr.innerText.trim()));
                 return rows.length > previous;
               }, before, { timeout: 30000 });
               rows = await readRows();
