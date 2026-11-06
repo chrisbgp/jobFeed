@@ -1,40 +1,38 @@
-# INTERAMT – IT-Stellen in Nordrhein-Westfalen
+# INTERAMT – IT-Stellen rund um Dortmund
 
-Täglich aktualisierter Feed für IT-Fachkräfte im öffentlichen Dienst in **Nordrhein-Westfalen, Deutschland**.
+Täglich aktualisierte IT-Stellen im öffentlichen Dienst im Umkreis von **100 km Luftlinie um 44135 Dortmund**, Deutschland.
 
 - **RSS abonnieren:** https://chrisbgp.github.io/InteramtFeed/feed.xml
 - [JSON](https://chrisbgp.github.io/InteramtFeed/feed.json) · [Markdown](https://chrisbgp.github.io/InteramtFeed/feed.md)
-- [Aktuelle Stellen im Repository](feed.md) · [Workflow / manuell aktualisieren](https://github.com/chrisbgp/InteramtFeed/actions/workflows/interamt-feed.yml)
+- [Stellen im Repository](feed.md) · [Workflow / manuell aktualisieren](https://github.com/chrisbgp/InteramtFeed/actions/workflows/interamt-feed.yml)
 
-## Auswahl der Stellen
+## Suche
 
-Der Scraper wählt auf INTERAMT den Bereich **IT und Telekommunikation** und die Dienstverhältnisse **Beamte** und **Tarifbeschäftigte**. Er lädt die vollständige bundesweite Trefferliste über „mehr laden“ und übernimmt Angebote mit mindestens einer NRW-Postleitzahl im angezeigten Standort. Es gibt keinen Radius um eine einzelne Stadt und keine Einschränkung nach Gehalt, Abschluss, Arbeitszeit oder Homeoffice.
+INTERAMT wird mit folgenden Filtern durchsucht:
 
-Die Zuordnung zu NRW verwendet die in [data/nrw-postcodes.json](data/nrw-postcodes.json) gespeicherten vollständigen Postleitzahlen. Dadurch werden Nachbarländer nicht pauschal durch PLZ-Präfixe oder einen Suchradius eingeschlossen. Stellen ohne auswertbare NRW-PLZ (z. B. nur „bundesweit“ oder „Home Office“) werden nicht aufgenommen. Bei mehreren Standorten muss eine NRW-PLZ sichtbar sein. Die Einordnung als IT-Stelle folgt der Kategorie des Arbeitgebers auf INTERAMT; falsch kategorisierte oder nur im Beschreibungstext erwähnte Standorte können damit nicht erkannt werden. Ausbildungsangebote werden nicht gezielt gesucht; die Dienstverhältnis-Einstufung stammt ebenfalls von INTERAMT.
+| Filter | Wert |
+| --- | --- |
+| Bereich | IT und Telekommunikation |
+| Dienstverhältnis | Beamte oder Tarifbeschäftigte |
+| Mittelpunkt | 44135 Dortmund |
+| Entfernung | 100 km Luftlinie |
+
+Dortmund dient als zentral gelegener Ausgangspunkt für die Suche in NRW. Die Begrenzung ist ein Suchradius, keine Bundeslandgrenze: Orte außerhalb von NRW können enthalten sein, weiter entfernte Teile von NRW fehlen. Die Entfernungen und die Zuordnung zur IT-Kategorie stammen von INTERAMT. Es gibt keine zusätzliche PLZ-Liste und keinen nachträglichen Bundeslandfilter. Gehalt, Abschluss, Arbeitszeit und Dienstort (Homeoffice, hybrid, vor Ort) sind nicht eingeschränkt.
+
+Der Workflow lädt über „mehr laden“ alle Treffer, entfernt doppelte INTERAMT-IDs und erstellt `feed.json`, `feed.md` und `feed.xml`. Bei unvollständiger Erfassung oder unerwartetem Tabellenformat wird der Lauf abgebrochen, bevor die Feeds veröffentlicht werden.
+
+## Eine Workflow-Datei
+
+Installation, Browser-Suche, JSON-/Markdown-/RSS-Erzeugung, XML-Prüfung und Veröffentlichung laufen vollständig in [.github/workflows/interamt-feed.yml](.github/workflows/interamt-feed.yml). Es werden keine separaten Skripte aus dem Repository aufgerufen. Playwright wird in einer festgelegten Version im temporären Verzeichnis des Runners installiert. Ein `package.json` oder eine lokale Datendatei ist nicht erforderlich.
+
+Um den Mittelpunkt oder Radius zu ändern, die Konstante `CENTER` im eingebetteten Node-Code anpassen. Standard: `{ city: 'Dortmund', postal_code: '44135', radius_km: 100 }`. Die drei Werte werden für die Suchmaske und die Feed-Metadaten verwendet.
+
+GitHub Actions aktualisiert die Feeds täglich um **05:45 UTC** (06:45 Uhr Berlin im Winter, 07:45 Uhr im Sommer). Änderungen an der Workflow-Datei starten ebenfalls einen Lauf. Ein manueller Start ist unter **Actions → INTERAMT IT NRW Feed → Run workflow** möglich; bei einer neuen Gabelung müssen Workflows gegebenenfalls zuerst aktiviert werden.
+
+Für die Pages-URLs muss **Settings → Pages → Source: GitHub Actions** aktiviert sein. Der Workflow versucht die Aktivierung automatisch. Alternativ ist die RSS-Datei direkt aus dem Repository abrufbar: https://raw.githubusercontent.com/chrisbgp/InteramtFeed/main/feed.xml
 
 ## RSS
 
-`feed.xml` ist RSS 2.0 in UTF-8 mit direkten Stellenlinks, stabilen GUIDs je INTERAMT-ID und Arbeitgeber, Ort, Vergütung, Dienstort und Bewerbungsfrist in der Beschreibung. `pubDate` verwendet das auf INTERAMT angezeigte Einstelldatum (00:00 UTC, da keine Uhrzeit angegeben wird). Fehlende oder ungültige Daten werden ausgelassen. Der Feed enthält die aktuell gefundenen Stellen, kein dauerhaftes Archiv. Bereits gelesene Einträge werden über ihre GUID wiedererkannt.
+`feed.xml` verwendet RSS 2.0 mit direkten Stellenlinks und stabilen GUIDs je INTERAMT-ID. Die Beschreibungen enthalten Arbeitgeber, Standort, Entfernung, Dienstort, Vergütung und Bewerbungsfrist. Das Einstelldatum wird als `pubDate` verwendet (00:00 UTC, da INTERAMT keine Uhrzeit angibt); fehlende oder ungültige Daten werden ausgelassen. Der Feed enthält die aktuell gefundenen Stellen, kein dauerhaftes Archiv.
 
-GitHub Actions aktualisiert JSON, Markdown und RSS täglich um **05:45 UTC** (06:45 Uhr Berlin im Winter, 07:45 Uhr im Sommer). Ein manueller Lauf ist unter **Actions → INTERAMT IT NRW Feed → Run workflow** möglich. Änderungen am Scraper lösen ebenfalls einen Lauf aus. Bei fehlerhafter oder unvollständiger Erfassung schlägt der Lauf fehl, bevor die bisherigen Feeds ersetzt oder veröffentlicht werden.
-
-Für die Pages-URLs muss GitHub Pages unter **Settings → Pages → Source: GitHub Actions** aktiviert sein. Der Workflow versucht die Aktivierung automatisch. Die RSS-Datei ist alternativ direkt aus dem Repository abrufbar: https://raw.githubusercontent.com/chrisbgp/InteramtFeed/main/feed.xml
-
-## Lokal ausführen
-
-Voraussetzungen: Node.js 22+, npm und Python 3 für die zusätzliche XML-Prüfung im Workflow.
-
-```sh
-npm ci
-npx playwright install chromium --with-deps
-npm test
-npm run update-feed
-```
-
-Mit `FEED_BASE_URL` kann die öffentliche Basis-URL geändert werden. Ohne diese Variable wird `https://chrisbgp.github.io/InteramtFeed` verwendet. Der Workflow leitet sie aus dem Repositorynamen ab. Ein Lauf braucht Internetzugang zu INTERAMT. Die PLZ-Liste ist bereits enthalten und erfordert keinen weiteren Geodaten-Dienst zur Laufzeit.
-
-## Datenquellen
-
-Stellenanzeigen: [INTERAMT](https://www.interamt.de/koop/app/stellensuche), einschließlich der Verlinkung zur vollständigen Originalanzeige.
-
-PLZ-Zuordnung: [GeoNames, Deutschland-Postleitzahlen](https://download.geonames.org/export/zip/DE.zip), abgerufen am 6. November 2026, Bundesland-Code `NW`. © [GeoNames](https://www.geonames.org/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Die Liste lässt sich bei Änderungen aus den eindeutigen PLZ der TSV-Zeilen mit Bundesland-Code `NW` neu erzeugen.
+Quelle der Stellen und Entfernungen: [INTERAMT](https://interamt.de/koop/app/stellensuche).

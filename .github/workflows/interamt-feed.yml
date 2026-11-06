@@ -6,11 +6,6 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/interamt-feed.yml'
-      - 'scripts/**'
-      - 'test/**'
-      - 'data/**'
-      - 'package.json'
-      - 'package-lock.json'
   schedule:
     # 06:45 Berlin in winter, 07:45 in summer.
     - cron: '45 5 * * *'
@@ -38,17 +33,199 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
-      - name: Abhängigkeiten installieren
-        run: npm ci
-      - name: Feed-Tests ausführen
-        run: npm test
-      - name: Chromium installieren
-        run: npx playwright install chromium --with-deps
+      - name: Playwright und Chromium installieren
+        run: |
+          npm install --prefix "$RUNNER_TEMP/interamt-deps" --no-save --package-lock=false playwright@1.56.1
+          "$RUNNER_TEMP/interamt-deps/node_modules/.bin/playwright" install chromium --with-deps
       - name: INTERAMT durchsuchen und Feeds erstellen
         env:
           FEED_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-        run: npm run update-feed
+          NODE_PATH: ${{ runner.temp }}/interamt-deps/node_modules
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs');
+          const CENTER = { city: 'Dortmund', postal_code: '44135', radius_km: 100 };
+          const FEED_TITLE = `INTERAMT – IT-Stellen im Umkreis von ${CENTER.city}`;
+          const SOURCE_URL = 'https://interamt.de/koop/app/stellensuche';
+
+          function parseRow({ id, cells: c }) {
+            if (!/^\d+$/.test(id) || ![9, 10].includes(c.length)) {
+              throw new Error(`Unexpected INTERAMT row layout for ${id}: ${c.length} cells`);
+            }
+            const hasDistance = c.length === 10;
+            if (!c[1] || !c[2] || !c[5]) throw new Error(`Incomplete INTERAMT row: ${id}`);
+            return {
+              id, url: `https://www.interamt.de/koop/app/stelle?id=${id}`,
+              employer: c[1], title: c[2], grade: c[3], pay: c[4], location: c[5],
+              distance: hasDistance ? c[6] : '', workplace: c[hasDistance ? 7 : 6],
+              posted: c[hasDistance ? 8 : 7], deadline: c[hasDistance ? 9 : 8],
+              row_text: c.join(' | '),
+            };
+          }
+
+          function dateFromGerman(value) {
+            const m = /^(\d{2})\.(\d{2})\.(\d{4})$/.exec(value);
+            if (!m) return null;
+            const date = new Date(Date.UTC(+m[3], +m[2] - 1, +m[1]));
+            return date.getUTCFullYear() === +m[3] && date.getUTCMonth() === +m[2] - 1 &&
+              date.getUTCDate() === +m[1] ? date : null;
+          }
+
+          function buildFeed(rows, generatedAt = new Date().toISOString()) {
+            const unique = new Map();
+            for (const row of rows) {
+              const job = parseRow(row);
+              unique.set(job.id, job);
+            }
+            const jobs = [...unique.values()].sort((a, b) =>
+              (dateFromGerman(b.posted)?.getTime() || 0) - (dateFromGerman(a.posted)?.getTime() || 0) ||
+              b.id.localeCompare(a.id, 'en', { numeric: true }));
+            return {
+              source: 'INTERAMT',
+              search: {
+                country: 'DE', center_city: CENTER.city, postal_code: CENTER.postal_code, radius_km: CENTER.radius_km,
+                category: 'IT und Telekommunikation',
+                employment_types: ['Beamte', 'Tarifbeschäftigte'],
+              },
+              generated_at: generatedAt, source_results: new Set(rows.map(row => row.id)).size,
+              visible_results: jobs.length, jobs,
+            };
+          }
+
+          function escapeXml(value) {
+            return String(value).replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/g, '')
+              .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+              .replace(/"/g, '&quot;').replace(/'/g, '&apos;');
+          }
+          const escapeMd = value => String(value).replace(/[\\`*_{}\[\]<>]/g, '\\$&').replace(/[\r\n]+/g, ' ');
+
+          function renderRss(feed, baseUrl) {
+            const base = baseUrl.replace(/\/$/, '');
+            const items = feed.jobs.map(job => {
+              const details = [
+                ['Arbeitgeber', job.employer], ['Ort', job.location], ['Entfernung', job.distance], ['Dienstort', job.workplace],
+                ['Besoldung', job.grade], ['Entgelt', job.pay], ['Eingestellt', job.posted], ['Bewerbungsfrist', job.deadline],
+              ].map(([label, value]) => `${label}: ${value || '–'}`).join('\n');
+              const date = dateFromGerman(job.posted);
+              return `    <item>
+                <title>${escapeXml(`${job.title} – ${job.location}`)}</title>
+                <link>${escapeXml(job.url)}</link>
+                <guid isPermaLink="true">${escapeXml(job.url)}</guid>
+                <description>${escapeXml(details)}</description>
+                <category>IT und Telekommunikation</category>
+                ${date ? `<pubDate>${date.toUTCString()}</pubDate>` : ''}
+              </item>`;
+            }).join('\n');
+            return `<?xml version="1.0" encoding="UTF-8"?>
+          <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+            <channel>
+              <title>${escapeXml(FEED_TITLE)}</title>
+              <link>${escapeXml(`${base}/`)}</link>
+              <description>IT-Stellen für Berufstätige im öffentlichen Dienst im Umkreis von ${CENTER.radius_km} km Luftlinie um ${CENTER.city}, Deutschland. Quelle: INTERAMT.</description>
+              <language>de-DE</language>
+              <lastBuildDate>${new Date(feed.generated_at).toUTCString()}</lastBuildDate>
+              <ttl>1440</ttl>
+              <atom:link href="${escapeXml(`${base}/feed.xml`)}" rel="self" type="application/rss+xml" />
+          ${items}
+            </channel>
+          </rss>
+          `;
+          }
+
+          function renderMarkdown(feed) {
+            let md = `# ${FEED_TITLE}\n\nLetzte Aktualisierung: ${feed.generated_at}\n\n`;
+            md += `Treffer: ${feed.jobs.length} – ${CENTER.radius_km} km Luftlinie um ${CENTER.postal_code} ${CENTER.city}\n\n`;
+            md += `Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.\n\n`;
+            for (const job of feed.jobs) {
+              md += `## [${job.id} – ${escapeMd(job.title)}](${job.url})\n\n`;
+              for (const [key, label] of Object.entries({employer:'Arbeitgeber',grade:'Besoldung',pay:'Entgelt',location:'Ort',distance:'Entfernung',workplace:'Dienstort',posted:'Eingestellt',deadline:'Bewerbungsfrist'})) {
+                md += `- ${label}: ${escapeMd(job[key] || '–')}\n`;
+              }
+              md += '\n';
+            }
+            return md;
+          }
+
+          function writeFeeds(feed, baseUrl) {
+            // Serialize all formats before replacing any previous feed.
+            const files = {
+              'feed.json': JSON.stringify(feed, null, 2) + '\n',
+              'feed.md': renderMarkdown(feed), 'feed.xml': renderRss(feed, baseUrl),
+            };
+            for (const [name, content] of Object.entries(files)) fs.writeFileSync(name, content);
+          }
+
+          const { chromium } = require('playwright');
+
+          async function collectRows(page) {
+            await page.getByRole('table').waitFor();
+            const heading = await page.getByRole('heading', { level: 1 }).innerText();
+            const match = heading.match(/([\d.]+)\s+Angebote?/);
+            if (!match) throw new Error(`Cannot read result count: ${heading}`);
+            const expected = Number(match[1].replace(/\./g, ''));
+            if (expected > 5000) throw new Error(`Unexpectedly large result count: ${expected}`);
+            const readRows = () => page.locator('table tbody tr').evaluateAll(trs => trs.flatMap(tr => {
+              const cells = [...tr.querySelectorAll('td')].map(td => td.innerText.trim().replace(/\s+/g, ' '));
+              const id = cells[0]?.match(/^(\d+)\b/)?.[1];
+              return id ? [{ id, cells }] : [];
+            }));
+            let rows = await readRows();
+            const unique = new Map(rows.map(row => [row.id, row]));
+            for (let step = 0; unique.size < expected; step++) {
+              if (step >= 500) throw new Error('Pagination safety limit reached');
+              const more = page.getByRole('button', { name: 'mehr laden', exact: true });
+              if (!await more.isVisible()) throw new Error(`Incomplete results: ${unique.size}/${expected}`);
+              const before = rows.length;
+              await more.click();
+              await page.waitForFunction(previous => {
+                const rows = [...document.querySelectorAll('table tbody tr')].filter(tr => /^\d+\b/.test(tr.innerText.trim()));
+                return rows.length > previous;
+              }, before, { timeout: 30000 });
+              rows = await readRows();
+              const oldSize = unique.size;
+              for (const row of rows) unique.set(row.id, row);
+              if (unique.size <= oldSize) throw new Error('Pagination did not add new jobs');
+            }
+            if (unique.size !== expected) throw new Error(`Result count changed: ${unique.size}/${expected}; retry the run`);
+            return [...unique.values()];
+          }
+
+          async function main() {
+            const browser = await chromium.launch({ headless: true });
+            try {
+              const page = await browser.newPage({ viewport: { width: 1440, height: 1400 } });
+              page.setDefaultTimeout(30000);
+              await page.goto(SOURCE_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
+              const cookieButton = page.getByRole('button', { name: 'Cookies akzeptieren', exact: true });
+              if (await cookieButton.isVisible()) await cookieButton.click();
+              // Accessible names are assigned after the site's initial JS setup.
+              // Choose by the visible adjacent label, avoiding volatile Wicket IDs/values.
+              for (const label of ['IT und Telekommunikation', 'Beamte', 'Tarifbeschäftigte']) {
+                const input = page.locator('input[type="checkbox"]').filter({ visible: true });
+                const id = await input.evaluateAll((elements, text) => {
+                  const matches = elements.filter(e => e.parentElement.innerText.trim() === text);
+                  if (matches.length !== 1) throw new Error(`Cannot uniquely locate checkbox: ${text}`);
+                  return matches[0].id;
+                }, label);
+                await page.locator(`[id="${id}"]`).check();
+                if (label === 'Beamte') await page.getByRole('group', { name: 'Parameter Beamte', exact: true }).waitFor();
+                if (label === 'Tarifbeschäftigte') await page.getByRole('group', { name: 'Parameter Tarifbeschäftigte', exact: true }).waitFor();
+              }
+              await page.locator('input[name="stellensucheFilterAttributes.plzDistance:PLZ"]').fill(CENTER.postal_code);
+              await page.locator('input[name="stellensucheFilterAttributes.plzDistance:stellensucheFilterAttributes.maxEntfernung"]').fill(String(CENTER.radius_km));
+              await page.getByRole('button', { name: 'Detailsuche', exact: true }).click();
+              const rows = await collectRows(page);
+              const feed = buildFeed(rows);
+
+              const baseUrl = process.env.FEED_BASE_URL || 'https://chrisbgp.github.io/InteramtFeed';
+              writeFeeds(feed, baseUrl);
+              console.log(`Created feeds: ${feed.jobs.length} IT jobs within ${CENTER.radius_km} km of ${CENTER.city}`);
+            } finally {
+              await browser.close();
+            }
+          }
+          main().catch(error => { console.error(error); process.exitCode = 1; });
+          NODE
       - name: RSS als XML prüfen
         run: |
           python - <<'PY'
@@ -79,10 +256,10 @@ jobs:
           <html lang="de">
           <meta charset="utf-8">
           <meta name="viewport" content="width=device-width,initial-scale=1">
-          <title>INTERAMT – IT-Stellen in NRW</title>
-          <link rel="alternate" type="application/rss+xml" title="IT-Stellen in NRW" href="feed.xml">
-          <h1>INTERAMT – IT-Stellen in Nordrhein-Westfalen</h1>
-          <p>Täglich aktualisierte IT-Stellen für Beamte und Tarifbeschäftigte in NRW.</p>
+          <title>INTERAMT – IT-Stellen rund um Dortmund</title>
+          <link rel="alternate" type="application/rss+xml" title="IT-Stellen rund um Dortmund" href="feed.xml">
+          <h1>INTERAMT – IT-Stellen rund um Dortmund</h1>
+          <p>Täglich aktualisierte IT-Stellen für Beamte und Tarifbeschäftigte im Umkreis von 100 km Luftlinie um Dortmund.</p>
           <ul>
           <li><a href="feed.xml">RSS-Feed abonnieren</a></li>
           <li><a href="feed.md">Stellenübersicht (Markdown)</a></li>

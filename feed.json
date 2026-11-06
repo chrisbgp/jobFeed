@@ -2,14 +2,14 @@
   "source": "INTERAMT",
   "search": {
     "country": "DE",
-    "state": "Nordrhein-Westfalen",
-    "state_code": "DE-NW",
+    "center_city": "Dortmund",
+    "postal_code": "44135",
+    "radius_km": 100,
     "category": "IT und Telekommunikation",
     "employment_types": [
       "Beamte",
       "Tarifbeschäftigte"
-    ],
-    "location_filter": "GeoNames postal codes in Nordrhein-Westfalen"
+    ]
   },
   "generated_at": "2026-11-06T11:10:23.039Z",
   "source_results": 0,
