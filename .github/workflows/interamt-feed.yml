@@ -21,16 +21,17 @@ concurrency:
 
 jobs:
   update-feed:
-    runs-on: ubuntu-latest
+    # Pin the OS because Playwright 1.56.1 does not support Ubuntu 26.04.
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Repository laden
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Node installieren
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 22
       - name: Playwright und Chromium installieren
