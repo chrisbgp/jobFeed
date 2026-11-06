@@ -213,14 +213,21 @@ jobs:
             return { rows: [...unique.values()].slice(0, MAX_RESULTS), totalResults: expected };
           }
 
+          async function installCookieHandler(page) {
+            const acceptCookies = page.getByRole('button', { name: 'Cookies akzeptieren', exact: true });
+            // The banner can appear after navigation or during pagination.
+            await page.addLocatorHandler(acceptCookies, async button => {
+              await button.click();
+            });
+          }
+
           async function main() {
             const browser = await chromium.launch({ headless: true });
             try {
               const page = await browser.newPage({ viewport: { width: 1440, height: 1400 } });
               page.setDefaultTimeout(30000);
+              await installCookieHandler(page);
               await page.goto(SOURCE_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
-              const cookieButton = page.getByRole('button', { name: 'Cookies akzeptieren', exact: true });
-              if (await cookieButton.isVisible()) await cookieButton.click();
               // Accessible names are assigned after the site's initial JS setup.
               // Choose by the visible adjacent label, avoiding volatile Wicket IDs/values.
               for (const label of ['IT und Telekommunikation', 'Beamte', 'Tarifbeschäftigte']) {
