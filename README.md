@@ -19,13 +19,13 @@ INTERAMT wird mit folgenden Filtern durchsucht:
 
 Dortmund dient als zentral gelegener Ausgangspunkt für die Suche in NRW. Die Begrenzung ist ein Suchradius, keine Bundeslandgrenze: Orte außerhalb von NRW können enthalten sein, weiter entfernte Teile von NRW fehlen. Die Entfernungen und die Zuordnung zur IT-Kategorie stammen von INTERAMT. Es gibt keine zusätzliche PLZ-Liste und keinen nachträglichen Bundeslandfilter. Gehalt, Abschluss, Arbeitszeit und Dienstort (Homeoffice, hybrid, vor Ort) sind nicht eingeschränkt.
 
-Der Workflow lädt über „mehr laden“ alle Treffer, entfernt doppelte INTERAMT-IDs und erstellt `feed.json`, `feed.md` und `feed.xml`. Bei unvollständiger Erfassung oder unerwartetem Tabellenformat wird der Lauf abgebrochen, bevor die Feeds veröffentlicht werden.
+Der Workflow sortiert die INTERAMT-Treffer nach Einstelldatum absteigend und lädt über „mehr laden“ nur so lange nach, bis **40 eindeutige Treffer** gesammelt sind. Gibt es weniger Treffer, werden alle übernommen. JSON, Markdown und RSS enthalten dieselben bis zu 40 neuesten Angebote. Es handelt sich um die neuesten noch angebotenen Stellen, nicht nur um seit gestern neu veröffentlichte Stellen. Die Gesamtzahl der Treffer bleibt in `source_results` erhalten; `limited` zeigt an, ob die Ausgabe begrenzt wurde. Bei unvollständiger Erfassung der benötigten Treffer oder unerwartetem Tabellenformat wird der Lauf abgebrochen, bevor die Feeds veröffentlicht werden.
 
 ## Eine Workflow-Datei
 
 Installation, Browser-Suche, JSON-/Markdown-/RSS-Erzeugung, XML-Prüfung und Veröffentlichung laufen vollständig in [.github/workflows/interamt-feed.yml](.github/workflows/interamt-feed.yml). Es werden keine separaten Skripte aus dem Repository aufgerufen. Playwright wird in einer festgelegten Version im temporären Verzeichnis des Runners installiert. Ein `package.json` oder eine lokale Datendatei ist nicht erforderlich.
 
-Um den Mittelpunkt oder Radius zu ändern, die Konstante `CENTER` im eingebetteten Node-Code anpassen. Standard: `{ city: 'Dortmund', postal_code: '44135', radius_km: 100 }`. Die drei Werte werden für die Suchmaske und die Feed-Metadaten verwendet.
+Um den Mittelpunkt oder Radius zu ändern, die Konstante `CENTER` im eingebetteten Node-Code anpassen. Standard: `{ city: 'Dortmund', postal_code: '44135', radius_km: 100 }`. Die drei Werte werden für die Suchmaske und die Feed-Metadaten verwendet. Die Konstante `MAX_RESULTS = 40` legt die maximale Zahl der Angebote pro täglichem Lauf fest.
 
 GitHub Actions aktualisiert die Feeds täglich um **05:45 UTC** (06:45 Uhr Berlin im Winter, 07:45 Uhr im Sommer). Änderungen an der Workflow-Datei starten ebenfalls einen Lauf. Ein manueller Start ist unter **Actions → INTERAMT IT NRW Feed → Run workflow** möglich; bei einer neuen Gabelung müssen Workflows gegebenenfalls zuerst aktiviert werden.
 

@@ -45,6 +45,7 @@ jobs:
           node <<'NODE'
           const fs = require('node:fs');
           const CENTER = { city: 'Dortmund', postal_code: '44135', radius_km: 100 };
+          const MAX_RESULTS = 40;
           const FEED_TITLE = `INTERAMT – IT-Stellen im Umkreis von ${CENTER.city}`;
           const SOURCE_URL = 'https://interamt.de/koop/app/stellensuche';
 
@@ -71,7 +72,7 @@ jobs:
               date.getUTCDate() === +m[1] ? date : null;
           }
 
-          function buildFeed(rows, generatedAt = new Date().toISOString()) {
+          function buildFeed(rows, generatedAt = new Date().toISOString(), sourceResults = new Set(rows.map(row => row.id)).size) {
             const unique = new Map();
             for (const row of rows) {
               const job = parseRow(row);
@@ -79,15 +80,16 @@ jobs:
             }
             const jobs = [...unique.values()].sort((a, b) =>
               (dateFromGerman(b.posted)?.getTime() || 0) - (dateFromGerman(a.posted)?.getTime() || 0) ||
-              b.id.localeCompare(a.id, 'en', { numeric: true }));
+              b.id.localeCompare(a.id, 'en', { numeric: true })).slice(0, MAX_RESULTS);
             return {
               source: 'INTERAMT',
               search: {
                 country: 'DE', center_city: CENTER.city, postal_code: CENTER.postal_code, radius_km: CENTER.radius_km,
                 category: 'IT und Telekommunikation',
                 employment_types: ['Beamte', 'Tarifbeschäftigte'],
+                max_results: MAX_RESULTS,
               },
-              generated_at: generatedAt, source_results: new Set(rows.map(row => row.id)).size,
+              generated_at: generatedAt, source_results: sourceResults, limited: sourceResults > jobs.length,
               visible_results: jobs.length, jobs,
             };
           }
@@ -121,7 +123,7 @@ jobs:
             <channel>
               <title>${escapeXml(FEED_TITLE)}</title>
               <link>${escapeXml(`${base}/`)}</link>
-              <description>IT-Stellen für Berufstätige im öffentlichen Dienst im Umkreis von ${CENTER.radius_km} km Luftlinie um ${CENTER.city}, Deutschland. Quelle: INTERAMT.</description>
+              <description>IT-Stellen für Berufstätige im öffentlichen Dienst im Umkreis von ${CENTER.radius_km} km Luftlinie um ${CENTER.city}, Deutschland. Bis zu ${MAX_RESULTS} neueste Treffer. Quelle: INTERAMT.</description>
               <language>de-DE</language>
               <lastBuildDate>${new Date(feed.generated_at).toUTCString()}</lastBuildDate>
               <ttl>1440</ttl>
@@ -135,6 +137,7 @@ jobs:
           function renderMarkdown(feed) {
             let md = `# ${FEED_TITLE}\n\nLetzte Aktualisierung: ${feed.generated_at}\n\n`;
             md += `Treffer: ${feed.jobs.length} – ${CENTER.radius_km} km Luftlinie um ${CENTER.postal_code} ${CENTER.city}\n\n`;
+            md += `Angezeigt: ${feed.jobs.length} von ${feed.source_results} Treffern (maximal ${MAX_RESULTS}, neueste zuerst).\n\n`;
             md += `Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.\n\n`;
             for (const job of feed.jobs) {
               md += `## [${job.id} – ${escapeMd(job.title)}](${job.url})\n\n`;
@@ -157,13 +160,30 @@ jobs:
 
           const { chromium } = require('playwright');
 
+          async function sortNewestFirst(page) {
+            const sortLink = page.getByRole('link', { name: 'Eingestellt', exact: true });
+            // INTERAMT cycles from orderNone to orderUp to orderDown.
+            for (let attempt = 0; attempt < 2; attempt++) {
+              const previous = await sortLink.getAttribute('class');
+              if ((previous || '').split(/\s+/).includes('orderDown')) return;
+              await sortLink.click();
+              await page.waitForFunction(previousClass => {
+                const link = document.querySelector('a[aria-label="Eingestellt"]');
+                return link && link.className !== previousClass;
+              }, previous);
+            }
+            if (!(await sortLink.getAttribute('class') || '').split(/\s+/).includes('orderDown')) {
+              throw new Error('Cannot sort INTERAMT results newest first');
+            }
+          }
+
           async function collectRows(page) {
             await page.getByRole('table').waitFor();
             const heading = await page.getByRole('heading', { level: 1 }).innerText();
             const match = heading.match(/([\d.]+)\s+Angebote?/);
             if (!match) throw new Error(`Cannot read result count: ${heading}`);
             const expected = Number(match[1].replace(/\./g, ''));
-            if (expected > 5000) throw new Error(`Unexpectedly large result count: ${expected}`);
+            const target = Math.min(expected, MAX_RESULTS);
             const readRows = () => page.locator('table tbody tr').evaluateAll(trs => trs.flatMap(tr => {
               const cells = [...tr.querySelectorAll('td')].map(td => td.innerText.trim().replace(/\s+/g, ' '));
               const id = cells[0]?.match(/^(\d+)\b/)?.[1];
@@ -171,10 +191,10 @@ jobs:
             }));
             let rows = await readRows();
             const unique = new Map(rows.map(row => [row.id, row]));
-            for (let step = 0; unique.size < expected; step++) {
-              if (step >= 500) throw new Error('Pagination safety limit reached');
+            for (let step = 0; unique.size < target; step++) {
+              if (step >= MAX_RESULTS) throw new Error('Pagination safety limit reached');
               const more = page.getByRole('button', { name: 'mehr laden', exact: true });
-              if (!await more.isVisible()) throw new Error(`Incomplete results: ${unique.size}/${expected}`);
+              if (!await more.isVisible()) throw new Error(`Incomplete results: ${unique.size}/${target}`);
               const before = rows.length;
               await more.click();
               await page.waitForFunction(previous => {
@@ -186,8 +206,10 @@ jobs:
               for (const row of rows) unique.set(row.id, row);
               if (unique.size <= oldSize) throw new Error('Pagination did not add new jobs');
             }
-            if (unique.size !== expected) throw new Error(`Result count changed: ${unique.size}/${expected}; retry the run`);
-            return [...unique.values()];
+            if (unique.size < target || (expected < MAX_RESULTS && unique.size !== expected)) {
+              throw new Error(`Incomplete or changed results: ${unique.size}/${target}; retry the run`);
+            }
+            return { rows: [...unique.values()].slice(0, MAX_RESULTS), totalResults: expected };
           }
 
           async function main() {
@@ -214,12 +236,14 @@ jobs:
               await page.locator('input[name="stellensucheFilterAttributes.plzDistance:PLZ"]').fill(CENTER.postal_code);
               await page.locator('input[name="stellensucheFilterAttributes.plzDistance:stellensucheFilterAttributes.maxEntfernung"]').fill(String(CENTER.radius_km));
               await page.getByRole('button', { name: 'Detailsuche', exact: true }).click();
-              const rows = await collectRows(page);
-              const feed = buildFeed(rows);
+              await page.getByRole('table').waitFor();
+              await sortNewestFirst(page);
+              const { rows, totalResults } = await collectRows(page);
+              const feed = buildFeed(rows, new Date().toISOString(), totalResults);
 
               const baseUrl = process.env.FEED_BASE_URL || 'https://chrisbgp.github.io/InteramtFeed';
               writeFeeds(feed, baseUrl);
-              console.log(`Created feeds: ${feed.jobs.length} IT jobs within ${CENTER.radius_km} km of ${CENTER.city}`);
+              console.log(`Created feeds: ${feed.jobs.length} of ${totalResults} IT jobs within ${CENTER.radius_km} km of ${CENTER.city}`);
             } finally {
               await browser.close();
             }
@@ -236,6 +260,7 @@ jobs:
           rss = ET.parse('feed.xml').getroot()
           assert rss.tag == 'rss' and rss.attrib['version'] == '2.0'
           assert len(rss.findall('./channel/item')) == len(feed['jobs'])
+          assert len(feed['jobs']) <= feed['search']['max_results']
           PY
       - name: Feeds ins Repository schreiben
         run: |
@@ -259,7 +284,7 @@ jobs:
           <title>INTERAMT – IT-Stellen rund um Dortmund</title>
           <link rel="alternate" type="application/rss+xml" title="IT-Stellen rund um Dortmund" href="feed.xml">
           <h1>INTERAMT – IT-Stellen rund um Dortmund</h1>
-          <p>Täglich aktualisierte IT-Stellen für Beamte und Tarifbeschäftigte im Umkreis von 100 km Luftlinie um Dortmund.</p>
+          <p>Die bis zu 40 neuesten IT-Stellen für Beamte und Tarifbeschäftigte im Umkreis von 100 km Luftlinie um Dortmund. Täglich aktualisiert.</p>
           <ul>
           <li><a href="feed.xml">RSS-Feed abonnieren</a></li>
           <li><a href="feed.md">Stellenübersicht (Markdown)</a></li>
