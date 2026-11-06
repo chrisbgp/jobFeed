@@ -1,5 +1,450 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Suche: 100 km Luftlinie um 44135 Dortmund. Der erste erfolgreiche Abruf steht noch aus. Der Workflow erstellt anschließend die aktuelle Stellenübersicht und den RSS-Feed.
+Letzte Aktualisierung: 2026-11-06T12:55:42.976Z
 
-[Workflow starten oder Status prüfen](https://github.com/chrisbgp/InteramtFeed/actions/workflows/interamt-feed.yml)
+Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
+
+Angezeigt: 40 von 92 Treffern (maximal 40, neueste zuerst).
+
+Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1510198 – 24/7 Front Office im Nationalen IT-Lagezentrum (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1510198)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: A11
+- Entgelt: TVöD-Bund E 11
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 06.11.2026
+- Bewerbungsfrist: 22.11.2026
+
+## [1510191 – Trainerin / Trainer (m/w/d) für SAP-Verfahren](https://www.interamt.de/koop/app/stelle?id=1510191)
+
+- Arbeitgeber: Landesbetrieb Information und Technik NRW
+- Besoldung: –
+- Entgelt: TV-L E 11
+- Ort: 40476 Düsseldorf
+- Entfernung: 56 km
+- Dienstort: Hybrid
+- Eingestellt: 06.11.2026
+- Bewerbungsfrist: 29.11.2026
+
+## [1509958 – Mitarbeiter/Mitarbeiterin IT-Anwendungsbetreuung (m/w/d) - bundesweit](https://www.interamt.de/koop/app/stelle?id=1509958)
+
+- Arbeitgeber: Bundesanstalt Technisches Hilfswerk
+- Besoldung: A6m - A9
+- Entgelt: TVöD-Bund E 6 - TVöD-Bund E 9b
+- Ort: 53127 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 06.11.2026
+- Bewerbungsfrist: 04.12.2026
+
+## [1509803 – Referent\*in (m/w/d) Informatik bzw. vergleichbare Fachrichtung bis Besoldungsgruppe A 14 LBesO NRW oder vergleichbare Tarifbeschäftigte](https://www.interamt.de/koop/app/stelle?id=1509803)
+
+- Arbeitgeber: Landesbeauftragte für Datenschutz und Informationsfreiheit NRW
+- Besoldung: A13h - A14
+- Entgelt: TV-L E 13 - TV-L E 14
+- Ort: 40213 Düsseldorf
+- Entfernung: 60 km
+- Dienstort: Hybrid
+- Eingestellt: 05.11.2026
+- Bewerbungsfrist: 03.12.2026
+
+## [1509785 – Softwarearchitekt\*in (w/m/d) für Individuallösungen](https://www.interamt.de/koop/app/stelle?id=1509785)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: A14
+- Entgelt: TVöD-Bund E 13
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 05.11.2026
+- Bewerbungsfrist: 26.11.2026
+
+## [1509702 – (Junior) Anwendungsmanagerin / Anwendungsmanager (w/m/d) in der Personalverwaltung SAP HCM (Human Capital Management) -befristet](https://www.interamt.de/koop/app/stelle?id=1509702)
+
+- Arbeitgeber: Informationstechnikzentrum Bund
+- Besoldung: –
+- Entgelt: TVöD-Bund E 10
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 05.11.2026
+- Bewerbungsfrist: 26.11.2026
+
+## [1509660 – Leitung (w/m/d) des Teams Daten und Analyse, Bedrohungs-Dashboard](https://www.interamt.de/koop/app/stelle?id=1509660)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: A15
+- Entgelt: TVöD-Bund E 15
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 05.11.2026
+- Bewerbungsfrist: 27.11.2026
+
+## [1509481 – Teamleitung IT-Management (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1509481)
+
+- Arbeitgeber: Stadt Herne
+- Besoldung: A13
+- Entgelt: TVöD-VKA E 13
+- Ort: 44623 Herne
+- Entfernung: 17 km
+- Dienstort: Hybrid
+- Eingestellt: 05.11.2026
+- Bewerbungsfrist: 03.12.2026
+
+## [1509323 – Fachinformatiker/in für unsere IT (w/m/d) in Vollzeit oder Teilzeit](https://www.interamt.de/koop/app/stelle?id=1509323)
+
+- Arbeitgeber: Stadt Hemer
+- Besoldung: –
+- Entgelt: TVöD-VKA E 10
+- Ort: 58675 Hemer
+- Entfernung: 26 km
+- Dienstort: Hybrid
+- Eingestellt: 04.11.2026
+- Bewerbungsfrist: 29.11.2026
+
+## [1509165 – Sachgebietsleitung System- und Netzwerktechnik (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1509165)
+
+- Arbeitgeber: Bundesanstalt Technisches Hilfswerk
+- Besoldung: A12
+- Entgelt: TVöD-Bund E 12
+- Ort: 53127 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 04.11.2026
+- Bewerbungsfrist: 02.12.2026
+
+## [1509124 – IT-Projektmanager (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1509124)
+
+- Arbeitgeber: Kreis Paderborn
+- Besoldung: –
+- Entgelt: TVöD-V E 11
+- Ort: 33102 Paderborn
+- Entfernung: 92 km
+- Dienstort: Hybrid
+- Eingestellt: 04.11.2026
+- Bewerbungsfrist: 28.11.2026
+
+## [1508825 – Software-Entwickler für Lernsysteme / Moodle (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1508825)
+
+- Arbeitgeber: Fernuniversität in Hagen
+- Besoldung: –
+- Entgelt: TV-L E 11 - TV-L E 13
+- Ort: 58097 Hagen
+- Entfernung: 16 km
+- Dienstort: Hybrid
+- Eingestellt: 03.11.2026
+- Bewerbungsfrist: 24.11.2026
+
+## [1508722 – IT-Anwendungsmanagerin / IT-Anwendungsmanager Microsoft 365 (m/w/d) - Hauptabteilung IT](https://www.interamt.de/koop/app/stelle?id=1508722)
+
+- Arbeitgeber: Berufsgenossenschaft Handel und Warenlogistik
+- Besoldung: –
+- Entgelt: BG-AT E9a
+- Ort: 53129 Bonn
+- Entfernung: 94 km
+- Dienstort: Vor Ort
+- Eingestellt: 03.11.2026
+- Bewerbungsfrist: 01.12.2026
+
+## [1507735 – Fachkraft IT-Service-Desk (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1507735)
+
+- Arbeitgeber: Bezirksregierung Düsseldorf
+- Besoldung: –
+- Entgelt: TV-L E 8
+- Ort: 40474 Düsseldorf
+- Entfernung: 57 km
+- Dienstort: Hybrid
+- Eingestellt: 03.11.2026
+- Bewerbungsfrist: 24.11.2026
+
+## [1508444 – IT-Systemkauffrau / IT-Systemkaufmann (m/w/d) für den Bereich Hard- und Software Einkauf](https://www.interamt.de/koop/app/stelle?id=1508444)
+
+- Arbeitgeber: Kommunales Rechenzentrum Niederrhein
+- Besoldung: –
+- Entgelt: TVöD-VKA E 10
+- Ort: 47475 Kamp-Lintfort
+- Entfernung: 65 km
+- Dienstort: Vor Ort
+- Eingestellt: 02.11.2026
+- Bewerbungsfrist: 25.11.2026
+
+## [1508231 – Sachbearbeiter/in IT-Technik (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1508231)
+
+- Arbeitgeber: Märkischer Kreis
+- Besoldung: –
+- Entgelt: TVöD-VKA E 10
+- Ort: 58509 Lüdenscheid
+- Entfernung: 35 km
+- Dienstort: Vor Ort
+- Eingestellt: 02.11.2026
+- Bewerbungsfrist: 17.11.2026
+
+## [1508142 – Sachbearbeitung Intel-Officer-Sentinel (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1508142)
+
+- Arbeitgeber: Polizeipräsidium Recklinghausen
+- Besoldung: –
+- Entgelt: TV-L E 11
+- Ort: 45657 Recklinghausen
+- Entfernung: 22 km
+- Dienstort: Vor Ort
+- Eingestellt: 02.11.2026
+- Bewerbungsfrist: 29.11.2026
+
+## [1507742 – Projekt- und Produktmanagement (Schuldigitalisierung) solingen.digital](https://www.interamt.de/koop/app/stelle?id=1507742)
+
+- Arbeitgeber: Klingenstadt Solingen
+- Besoldung: A12
+- Entgelt: TVöD-VKA E 12
+- Ort: 42651 Solingen
+- Entfernung: 47 km
+- Dienstort: Vor Ort
+- Eingestellt: 30.10.2026
+- Bewerbungsfrist: 27.11.2026
+
+## [1507488 – zwei Mitarbeiterinnen/Mitarbeiter für Medientechnik (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1507488)
+
+- Arbeitgeber: Landtag NRW, der Präsident
+- Besoldung: –
+- Entgelt: TV-L E 7 - TV-L E 9a
+- Ort: 40221 Düsseldorf
+- Entfernung: 61 km
+- Dienstort: Hybrid
+- Eingestellt: 29.10.2026
+- Bewerbungsfrist: 19.11.2026
+
+## [1507331 – Projektleitung (m/w/d) Dokumentenmanagement](https://www.interamt.de/koop/app/stelle?id=1507331)
+
+- Arbeitgeber: Kreis Wesel
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 46483 Wesel
+- Entfernung: 62 km
+- Dienstort: Hybrid
+- Eingestellt: 29.10.2026
+- Bewerbungsfrist: 18.11.2026
+
+## [1507172 – Netzwerk- und Kapazitätsmanager\*in (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1507172)
+
+- Arbeitgeber: Hochschule Düsseldorf
+- Besoldung: –
+- Entgelt: TV-L E 9b
+- Ort: 40476 Düsseldorf
+- Entfernung: 56 km
+- Dienstort: Hybrid
+- Eingestellt: 29.10.2026
+- Bewerbungsfrist: 18.11.2026
+
+## [1507170 – Netzwerkarchitekt\*in (w/m/d) für Campus-Netzwerke](https://www.interamt.de/koop/app/stelle?id=1507170)
+
+- Arbeitgeber: Hochschule Düsseldorf
+- Besoldung: –
+- Entgelt: TV-L E 13
+- Ort: 40476 Düsseldorf
+- Entfernung: 56 km
+- Dienstort: Hybrid
+- Eingestellt: 29.10.2026
+- Bewerbungsfrist: 18.11.2026
+
+## [1507140 – Softwarearchitektin bzw. Softwarearchitekt (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1507140)
+
+- Arbeitgeber: Bundesamt für Justiz
+- Besoldung: A9g - A12
+- Entgelt: TVöD-Bund E 12
+- Ort: 53113 Bonn
+- Entfernung: 93 km
+- Dienstort: Hybrid
+- Eingestellt: 29.10.2026
+- Bewerbungsfrist: 25.11.2026
+
+## [1503861 – Manager/in (m/w/d) Digitalisierungs- und Entwicklungsstrategie](https://www.interamt.de/koop/app/stelle?id=1503861)
+
+- Arbeitgeber: Kommunalbetrieb Krefeld AöR
+- Besoldung: –
+- Entgelt: TVöD-VKA E 12
+- Ort: 47798 Krefeld
+- Entfernung: 65 km
+- Dienstort: Hybrid
+- Eingestellt: 29.10.2026
+- Bewerbungsfrist: 15.11.2026
+
+## [1506614 – IT-Expert\*innen (w/m/d) im Bereich Cybersicherheit für das Referat IT-Prüfungen II](https://www.interamt.de/koop/app/stelle?id=1506614)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: A11
+- Entgelt: TVöD-Bund E 10
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 27.10.2026
+- Bewerbungsfrist: 12.11.2026
+
+## [1506572 – SAP-Systemadministrator\*in mit Schwerpunkt Basisbetrieb/ SAP S/4HANA](https://www.interamt.de/koop/app/stelle?id=1506572)
+
+- Arbeitgeber: TH Köln
+- Besoldung: –
+- Entgelt: TV-L E 12
+- Ort: 50968 Köln
+- Entfernung: 76 km
+- Dienstort: Hybrid
+- Eingestellt: 27.10.2026
+- Bewerbungsfrist: 10.11.2026
+
+## [1506540 – Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Köln](https://www.interamt.de/koop/app/stelle?id=1506540)
+
+- Arbeitgeber: Bundesverwaltungsamt
+- Besoldung: –
+- Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11
+- Ort: 50829 Köln
+- Entfernung: 73 km
+- Dienstort: Hybrid
+- Eingestellt: 27.10.2026
+- Bewerbungsfrist: 17.11.2026
+
+## [1506539 – Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Bonn](https://www.interamt.de/koop/app/stelle?id=1506539)
+
+- Arbeitgeber: Bundesverwaltungsamt
+- Besoldung: –
+- Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 27.10.2026
+- Bewerbungsfrist: 17.11.2026
+
+## [1506198 – Senior Spezialist\*in für Cybersicherheit (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1506198)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: A14
+- Entgelt: TVöD-Bund E 13
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 27.10.2026
+- Bewerbungsfrist: 17.11.2026
+
+## [1505777 – Wir suchen Digitale Talente (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1505777)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: –
+- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 25.10.2026
+- Bewerbungsfrist: 06.12.2026
+
+## [1505775 – Wir suchen Digitale Talente (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1505775)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: –
+- Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 25.10.2026
+- Bewerbungsfrist: 06.12.2026
+
+## [1505774 – Wir suchen Digitale Talente (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1505774)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: A13h - A14
+- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 25.10.2026
+- Bewerbungsfrist: 06.12.2026
+
+## [1505773 – Wir suchen Digitale Talente (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1505773)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: A10 - A11
+- Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 25.10.2026
+- Bewerbungsfrist: 06.12.2026
+
+## [1505591 – Operative IT-Sicherheit (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1505591)
+
+- Arbeitgeber: Stadt Ratingen
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 40878 Ratingen
+- Entfernung: 50 km
+- Dienstort: Hybrid
+- Eingestellt: 23.10.2026
+- Bewerbungsfrist: 13.11.2026
+
+## [1505417 – Spezialist\*innen Data Platform (w/m/d) für den Bereich DevOps III: Künstliche Intelligenz, Datenbank und -analyse](https://www.interamt.de/koop/app/stelle?id=1505417)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: –
+- Entgelt: TVöD-Bund E 12
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 23.10.2026
+- Bewerbungsfrist: 12.11.2026
+
+## [1505389 – Informatiker / Betriebswirt (m/w/d) als Sachgebietsleitung (m/w/d) Servicedesk](https://www.interamt.de/koop/app/stelle?id=1505389)
+
+- Arbeitgeber: Südwestfalen-IT (Kommunaler Zweckverband)
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 58675 Hemer
+- Entfernung: 26 km
+- Dienstort: Vor Ort
+- Eingestellt: 23.10.2026
+- Bewerbungsfrist: baldmöglichst
+
+## [1505388 – Produktmanager (m/w/d) Technologie](https://www.interamt.de/koop/app/stelle?id=1505388)
+
+- Arbeitgeber: Südwestfalen-IT (Kommunaler Zweckverband)
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 57074 Siegen
+- Entfernung: 82 km
+- Dienstort: Hybrid
+- Eingestellt: 23.10.2026
+- Bewerbungsfrist: baldmöglichst
+
+## [1505387 – Berater / Projektleiter (m/w/d) CAFM-Software](https://www.interamt.de/koop/app/stelle?id=1505387)
+
+- Arbeitgeber: Südwestfalen-IT (Kommunaler Zweckverband)
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 57074 Siegen
+- Entfernung: 82 km
+- Dienstort: Hybrid
+- Eingestellt: 23.10.2026
+- Bewerbungsfrist: baldmöglichst
+
+## [1505386 – Mitarbeiter/in (w/m/d) in der Digitalen Poststelle und im Druckzentrum](https://www.interamt.de/koop/app/stelle?id=1505386)
+
+- Arbeitgeber: Rhein-Kreis Neuss
+- Besoldung: –
+- Entgelt: TVöD-Bund E 5
+- Ort: 41515 Grevenbroich
+- Entfernung: 78 km
+- Dienstort: Vor Ort
+- Eingestellt: 23.10.2026
+- Bewerbungsfrist: 11.11.2026
+
+## [1504792 – Sachbearbeiterin / Sachbearbeiter Geografische Informationssysteme - GIS (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1504792)
+
+- Arbeitgeber: Kreis Viersen
+- Besoldung: –
+- Entgelt: TVöD-VKA E 10 - TVöD-VKA E 11
+- Ort: 41747 Viersen
+- Entfernung: 80 km
+- Dienstort: Hybrid
+- Eingestellt: 23.10.2026
+- Bewerbungsfrist: 15.11.2026
+
