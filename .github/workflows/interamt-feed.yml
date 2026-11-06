@@ -302,13 +302,12 @@ jobs:
           </html>
           HTML
       - name: GitHub Pages konfigurieren
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
+        uses: actions/configure-pages@v6
+        # Enable Settings > Pages > Source: GitHub Actions once before deploying.
       - name: Pages hochladen
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
       - name: GitHub Pages veröffentlichen
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
