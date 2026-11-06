@@ -29,7 +29,7 @@ Um den Mittelpunkt oder Radius zu ändern, die Konstante `CENTER` im eingebettet
 
 GitHub Actions aktualisiert die Feeds täglich um **05:45 UTC** (06:45 Uhr Berlin im Winter, 07:45 Uhr im Sommer). Änderungen an der Workflow-Datei starten ebenfalls einen Lauf. Ein manueller Start ist unter **Actions → INTERAMT IT NRW Feed → Run workflow** möglich; bei einer neuen Gabelung müssen Workflows gegebenenfalls zuerst aktiviert werden.
 
-Für die Pages-URLs muss **Settings → Pages → Source: GitHub Actions** aktiviert sein. Der Workflow versucht die Aktivierung automatisch. Alternativ ist die RSS-Datei direkt aus dem Repository abrufbar: https://raw.githubusercontent.com/chrisbgp/InteramtFeed/main/feed.xml
+Für die Pages-URLs einmalig im Repository **Settings → Pages → Build and deployment → Source: GitHub Actions** auswählen. Danach den Workflow manuell starten. Das standardmäßige `GITHUB_TOKEN` darf eine bisher deaktivierte Pages-Site nicht selbst aktivieren. Die Feeds werden bereits vor der Pages-Veröffentlichung ins Repository geschrieben und sind auch ohne Pages verfügbar. Die RSS-Datei ist direkt abrufbar: https://raw.githubusercontent.com/chrisbgp/InteramtFeed/main/feed.xml
 
 ## RSS
 
