@@ -1,142 +1,19 @@
 {
   "source": "INTERAMT",
   "search": {
-    "postal_code": "10999",
-    "radius_km": 50,
-    "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
+    "country": "DE",
+    "state": "Nordrhein-Westfalen",
+    "state_code": "DE-NW",
+    "category": "IT und Telekommunikation",
+    "employment_types": [
+      "Beamte",
+      "Tarifbeschäftigte"
+    ],
+    "location_filter": "GeoNames postal codes in Nordrhein-Westfalen"
   },
-  "generated_at": "2026-11-05T13:31:17.776Z",
-  "visible_results": 10,
-  "jobs": [
-    {
-      "id": "1509667",
-      "employer": "IT-Dienstleistungszentrum Berlin",
-      "title": "Transformationsmanager*in",
-      "grade": "",
-      "pay": "TV-ITDZ Berlin E 12",
-      "location": "10713 Berlin",
-      "distance": "7 km",
-      "workplace": "Hybrid",
-      "posted": "05.11.2026",
-      "deadline": "19.11.2026",
-      "row_text": "1509667 Stellenausschreibung öffnen | IT-Dienstleistungszentrum Berlin | Transformationsmanager*in |  | TV-ITDZ Berlin E 12 | 10713 Berlin | 7 km | Hybrid | 05.11.2026 | 19.11.2026"
-    },
-    {
-      "id": "1509389",
-      "employer": "Die Verwaltung des Abgeordnetenhauses von Berlin",
-      "title": "Werkstudierende (m/w/d)",
-      "grade": "",
-      "pay": "TV-L E 4 - TV-L E 6",
-      "location": "10117 Berlin",
-      "distance": "3 km",
-      "workplace": "Hybrid",
-      "posted": "05.11.2026",
-      "deadline": "26.11.2026",
-      "row_text": "1509389 Stellenausschreibung öffnen | Die Verwaltung des Abgeordnetenhauses von Berlin | Werkstudierende (m/w/d) |  | TV-L E 4 - TV-L E 6 | 10117 Berlin | 3 km | Hybrid | 05.11.2026 | 26.11.2026"
-    },
-    {
-      "id": "1509355",
-      "employer": "Bundesministerium für Verkehr",
-      "title": "Zwei Werkstudentinnen / Werkstudenten (m/w/d) Social Media",
-      "grade": "A9g - A13",
-      "pay": "TVÖD-9 - TVÖD-13",
-      "location": "10115 Berlin",
-      "distance": "3 km",
-      "workplace": "",
-      "posted": "21.10.2026",
-      "deadline": "12.11.2026",
-      "row_text": "1509355 Stellenausschreibung öffnen | Bundesministerium für Verkehr | Zwei Werkstudentinnen / Werkstudenten (m/w/d) Social Media | A9g - A13 | TVÖD-9 - TVÖD-13 | 10115 Berlin | 3 km |  | 21.10.2026 | 12.11.2026"
-    },
-    {
-      "id": "1508731",
-      "employer": "Berufsgenossenschaft Handel und Warenlogistik",
-      "title": "Studierende für den dualen Bachelorstudiengang (B.A.) gesetzliche Unfallversicherung - Recht, Rehabilitation und Verwaltung - Abteilung Reha und Leist",
-      "grade": "",
-      "pay": "",
-      "location": "10715 Berlin",
-      "distance": "7 km",
-      "workplace": "Vor Ort",
-      "posted": "03.11.2026",
-      "deadline": "31.12.2026",
-      "row_text": "1508731 Stellenausschreibung öffnen | Berufsgenossenschaft Handel und Warenlogistik | Studierende für den dualen Bachelorstudiengang (B.A.) gesetzliche Unfallversicherung - Recht, Rehabilitation und Verwaltung - Abteilung Reha und Leist |  |  | 10715 Berlin | 7 km | Vor Ort | 03.11.2026 | 31.12.2026"
-    },
-    {
-      "id": "1508720",
-      "employer": "Bezirksamt Spandau von Berlin",
-      "title": "Werkstudent*in Fortbildung in der Erwachsenenbildung",
-      "grade": "",
-      "pay": "TV-L E 3",
-      "location": "13597 Berlin",
-      "distance": "15 km",
-      "workplace": "Hybrid",
-      "posted": "03.11.2026",
-      "deadline": "24.11.2026",
-      "row_text": "1508720 Stellenausschreibung öffnen | Bezirksamt Spandau von Berlin | Werkstudent*in Fortbildung in der Erwachsenenbildung |  | TV-L E 3 | 13597 Berlin | 15 km | Hybrid | 03.11.2026 | 24.11.2026"
-    },
-    {
-      "id": "1508252",
-      "employer": "Universität Potsdam",
-      "title": "Akademische/-r Mitarbeiter/-in (w/m/d) Koordination des Kompetenzzentrums Überfachliches Lernen und Berufsorientierung Kenn-Nr. 384/2026",
-      "grade": "",
-      "pay": "TV-L E 13",
-      "location": "14476 Potsdam",
-      "distance": "32 km",
-      "workplace": "Hybrid",
-      "posted": "02.11.2026",
-      "deadline": "30.11.2026",
-      "row_text": "1508252 Stellenausschreibung öffnen | Universität Potsdam | Akademische/-r Mitarbeiter/-in (w/m/d) Koordination des Kompetenzzentrums Überfachliches Lernen und Berufsorientierung Kenn-Nr. 384/2026 |  | TV-L E 13 | 14476 Potsdam | 32 km | Hybrid | 02.11.2026 | 30.11.2026"
-    },
-    {
-      "id": "1507467",
-      "employer": "Bezirksamt Mitte von Berlin",
-      "title": "Leitung der Arbeitsgruppe - ordnungsrechtliche Unterbringung für die Fachstelle Soziale Wohnhilfe (m/w/d)",
-      "grade": "A11",
-      "pay": "TV-L E 11",
-      "location": "13353 Berlin",
-      "distance": "7 km",
-      "workplace": "Hybrid",
-      "posted": "29.10.2026",
-      "deadline": "12.11.2026",
-      "row_text": "1507467 Stellenausschreibung öffnen | Bezirksamt Mitte von Berlin | Leitung der Arbeitsgruppe - ordnungsrechtliche Unterbringung für die Fachstelle Soziale Wohnhilfe (m/w/d) | A11 | TV-L E 11 | 13353 Berlin | 7 km | Hybrid | 29.10.2026 | 12.11.2026"
-    },
-    {
-      "id": "1507112",
-      "employer": "Konrad-Adenauer-Stiftung e.V.",
-      "title": "Trainee (m/w/d) für einen zweijährigen Einsatz im Regionalprogramm Politischer Dialog Südkaukasus (Armenien, Georgien), mit Sitz in Chisinau, Republik",
-      "grade": "",
-      "pay": "Uni / Master",
-      "location": "10785 Berlin",
-      "distance": "4 km",
-      "workplace": "Hybrid",
-      "posted": "29.10.2026",
-      "deadline": "12.11.2026",
-      "row_text": "1507112 Stellenausschreibung öffnen | Konrad-Adenauer-Stiftung e.V. | Trainee (m/w/d) für einen zweijährigen Einsatz im Regionalprogramm Politischer Dialog Südkaukasus (Armenien, Georgien), mit Sitz in Chisinau, Republik |  | Uni / Master | 10785 Berlin | 4 km | Hybrid | 29.10.2026 | 12.11.2026"
-    },
-    {
-      "id": "1506879",
-      "employer": "Humboldt-Universität zu Berlin",
-      "title": "Projektleitung Leadership-Programm für Professorinnen (m/w/d)",
-      "grade": "",
-      "pay": "TV-L E 13",
-      "location": "10117 Berlin",
-      "distance": "3 km",
-      "workplace": "Hybrid",
-      "posted": "28.10.2026",
-      "deadline": "18.11.2026",
-      "row_text": "1506879 Stellenausschreibung öffnen | Humboldt-Universität zu Berlin | Projektleitung Leadership-Programm für Professorinnen (m/w/d) |  | TV-L E 13 | 10117 Berlin | 3 km | Hybrid | 28.10.2026 | 18.11.2026"
-    },
-    {
-      "id": "1506872",
-      "employer": "Bezirksamt Spandau von Berlin",
-      "title": "Leitung Kommunikation und Programm für die Stadtbibliothek (m/w/d)",
-      "grade": "A11",
-      "pay": "TV-L E 10",
-      "location": "13597 Berlin",
-      "distance": "15 km",
-      "workplace": "Hybrid",
-      "posted": "28.10.2026",
-      "deadline": "19.11.2026",
-      "row_text": "1506872 Stellenausschreibung öffnen | Bezirksamt Spandau von Berlin | Leitung Kommunikation und Programm für die Stadtbibliothek (m/w/d) | A11 | TV-L E 10 | 13597 Berlin | 15 km | Hybrid | 28.10.2026 | 19.11.2026"
-    }
-  ]
+  "generated_at": "2026-11-06T11:10:23.039Z",
+  "source_results": 0,
+  "visible_results": 0,
+  "jobs": [],
+  "status": "awaiting_initial_refresh"
 }

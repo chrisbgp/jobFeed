@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INTERAMT – IT-Stellen in Nordrhein-Westfalen</title>
+    <link>https://chrisbgp.github.io/InteramtFeed/</link>
+    <description>IT-Stellen in Nordrhein-Westfalen. Der erste erfolgreiche Abruf steht noch aus. Quelle: INTERAMT.</description>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 06 Nov 2026 11:10:23 GMT</lastBuildDate>
+    <ttl>1440</ttl>
+    <atom:link href="https://chrisbgp.github.io/InteramtFeed/feed.xml" rel="self" type="application/rss+xml" />
+
+  </channel>
+</rss>

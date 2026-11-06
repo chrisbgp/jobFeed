@@ -1,9 +1,18 @@
-name: INTERAMT Feed
+name: INTERAMT IT NRW Feed
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/interamt-feed.yml'
+      - 'scripts/**'
+      - 'test/**'
+      - 'data/**'
+      - 'package.json'
+      - 'package-lock.json'
   schedule:
-    # 05:45 UTC = 06:45 Uhr Berlin im Winter, 07:45 Uhr im Sommer
+    # 06:45 Berlin in winter, 07:45 in summer.
     - cron: '45 5 * * *'
 
 permissions:
@@ -11,202 +20,85 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: interamt-feed
+  cancel-in-progress: false
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
       - name: Repository laden
         uses: actions/checkout@v4
-
       - name: Node installieren
         uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      - name: Playwright installieren
+          cache: npm
+      - name: Abhängigkeiten installieren
+        run: npm ci
+      - name: Feed-Tests ausführen
+        run: npm test
+      - name: Chromium installieren
+        run: npx playwright install chromium --with-deps
+      - name: INTERAMT durchsuchen und Feeds erstellen
+        env:
+          FEED_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: npm run update-feed
+      - name: RSS als XML prüfen
         run: |
-          npm init -y
-          npm install playwright
-          npx playwright install chromium --with-deps
-
-      - name: INTERAMT durchsuchen
-        run: |
-          node <<'NODE'
-          const { chromium } = require('playwright');
-          const fs = require('fs');
-
-          const SUCHTEXT = `(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR "public health") OR "sozial- oder wirtschaftswissenschaftliches"`;
-
-          (async () => {
-            const browser = await chromium.launch({ headless: true });
-
-            const page = await browser.newPage({
-              viewport: { width: 1440, height: 1400 }
-            });
-
-            await page.goto(
-              'https://www.interamt.de/koop/app/stellensuche',
-              {
-                waitUntil: 'domcontentloaded',
-                timeout: 60000
-              }
-            );
-
-            await page.waitForTimeout(3000);
-
-            const cookieButton = page.getByRole('button', {
-              name: 'Cookies akzeptieren'
-            });
-
-            if (await cookieButton.isVisible().catch(() => false)) {
-              await cookieButton.click();
-              await page.waitForTimeout(1000);
-            }
-
-            await page.locator(
-              'input[name="stellensucheFilterAttributes.plzDistance:PLZ"]'
-            ).fill('10999');
-
-            await page.locator(
-              'input[name="stellensucheFilterAttributes.plzDistance:stellensucheFilterAttributes.maxEntfernung"]'
-            ).fill('50');
-
-            await page.locator(
-              'input[name="stellensucheFilterAttributes.suchtextContainer:stellensucheFilterAttributes.suchText"]'
-            ).fill(SUCHTEXT);
-
-            await page.getByRole('button', {
-              name: 'Detailsuche',
-              exact: true
-            }).click();
-
-            await page.waitForTimeout(10000);
-
-            const rawRows = await page.locator('a').evaluateAll(as => {
-              const results = [];
-
-              for (const a of as) {
-                const text = (a.innerText || '').trim();
-                const match = text.match(/\b(\d{7})\b/);
-
-                if (!match) continue;
-
-                const tr = a.closest('tr');
-                if (!tr) continue;
-
-                const cells = [...tr.querySelectorAll('td')].map(td =>
-                  td.innerText.trim().replace(/\s+/g, ' ')
-                );
-
-                results.push({
-                  id: match[1],
-                  cells
-                });
-              }
-
-              return results;
-            });
-
-            const unique = new Map();
-
-            for (const row of rawRows) {
-              if (!unique.has(row.id)) {
-                unique.set(row.id, row);
-              }
-            }
-
-            const jobs = [...unique.values()].map(row => {
-              const c = row.cells;
-
-              return {
-                id: row.id,
-                employer: c[1] || '',
-                title: c[2] || '',
-                grade: c[3] || '',
-                pay: c[4] || '',
-                location: c[5] || '',
-                distance: c[6] || '',
-                workplace: c[7] || '',
-                posted: c[8] || '',
-                deadline: c[9] || '',
-                row_text: c.join(' | ')
-              };
-            });
-
-            const feed = {
-              source: 'INTERAMT',
-              search: {
-                postal_code: '10999',
-                radius_km: 50,
-                query: SUCHTEXT
-              },
-              generated_at: new Date().toISOString(),
-              visible_results: jobs.length,
-              jobs
-            };
-
-            fs.writeFileSync(
-              'feed.json',
-              JSON.stringify(feed, null, 2)
-            );
-
-            let md = `# INTERAMT Feed\n\n`;
-            md += `Letzte Aktualisierung: ${feed.generated_at}\n\n`;
-            md += `Sichtbare Treffer: ${jobs.length}\n\n`;
-
-            for (const job of jobs) {
-              md += `## ${job.id} – ${job.title}\n\n`;
-              md += `- Arbeitgeber: ${job.employer}\n`;
-              md += `- Besoldung: ${job.grade}\n`;
-              md += `- Entgelt: ${job.pay}\n`;
-              md += `- Ort: ${job.location}\n`;
-              md += `- Arbeitsort: ${job.workplace}\n`;
-              md += `- Eingestellt: ${job.posted}\n`;
-              md += `- Frist: ${job.deadline}\n\n`;
-            }
-
-            fs.writeFileSync('feed.md', md);
-
-            console.log(`Feed erstellt: ${jobs.length} sichtbare Treffer`);
-
-            await browser.close();
-          })();
-          NODE
-
-      - name: Feed ins Repository schreiben
+          python - <<'PY'
+          import json
+          import xml.etree.ElementTree as ET
+          with open('feed.json') as f:
+              feed = json.load(f)
+          rss = ET.parse('feed.xml').getroot()
+          assert rss.tag == 'rss' and rss.attrib['version'] == '2.0'
+          assert len(rss.findall('./channel/item')) == len(feed['jobs'])
+          PY
+      - name: Feeds ins Repository schreiben
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add feed.json feed.md
-
-          if git diff --cached --quiet; then
-            echo "Keine Änderung."
-          else
-            git commit -m "Update INTERAMT feed"
+          git add feed.json feed.md feed.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "Update INTERAMT IT NRW feeds"
             git push
           fi
-
       - name: Pages-Dateien vorbereiten
         run: |
           mkdir -p _site
-          cp feed.json _site/feed.json
-          cp feed.md _site/feed.md
-
+          cp feed.json feed.md feed.xml _site/
+          touch _site/.nojekyll
+          cat > _site/index.html <<'HTML'
+          <!doctype html>
+          <html lang="de">
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width,initial-scale=1">
+          <title>INTERAMT – IT-Stellen in NRW</title>
+          <link rel="alternate" type="application/rss+xml" title="IT-Stellen in NRW" href="feed.xml">
+          <h1>INTERAMT – IT-Stellen in Nordrhein-Westfalen</h1>
+          <p>Täglich aktualisierte IT-Stellen für Beamte und Tarifbeschäftigte in NRW.</p>
+          <ul>
+          <li><a href="feed.xml">RSS-Feed abonnieren</a></li>
+          <li><a href="feed.md">Stellenübersicht (Markdown)</a></li>
+          <li><a href="feed.json">JSON-Feed</a></li>
+          </ul>
+          <p>Quelle: <a href="https://www.interamt.de/koop/app/stellensuche">INTERAMT</a>.</p>
+          </html>
+          HTML
       - name: GitHub Pages konfigurieren
         uses: actions/configure-pages@v5
-
+        with:
+          enablement: true
       - name: Pages hochladen
         uses: actions/upload-pages-artifact@v4
         with:
-          path: '_site'
-
+          path: _site
       - name: GitHub Pages veröffentlichen
         id: deployment
         uses: actions/deploy-pages@v4
