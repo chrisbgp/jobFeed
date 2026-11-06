@@ -105,10 +105,11 @@ jobs:
           function renderRss(feed, baseUrl) {
             const base = baseUrl.replace(/\/$/, '');
             const items = feed.jobs.map(job => {
+              // RSS readers render HTML: escape source values, then add explicit line breaks.
               const details = [
                 ['Arbeitgeber', job.employer], ['Ort', job.location], ['Entfernung', job.distance], ['Dienstort', job.workplace],
                 ['Besoldung', job.grade], ['Entgelt', job.pay], ['Eingestellt', job.posted], ['Bewerbungsfrist', job.deadline],
-              ].map(([label, value]) => `${label}: ${value || '–'}`).join('\n');
+              ].map(([label, value]) => `${escapeXml(label)}: ${escapeXml(value || '–')}`).join('<br />\n');
               const date = dateFromGerman(job.posted);
               return `    <item>
                 <title>${escapeXml(`${job.title} – ${job.location}`)}</title>
