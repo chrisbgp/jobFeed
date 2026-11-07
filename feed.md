@@ -1,6 +1,6 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-06T14:48:55.564Z
+Letzte Aktualisierung: 2026-11-07T11:56:52.280Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
