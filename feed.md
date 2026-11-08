@@ -1,12 +1,23 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-07T11:56:52.280Z
+Letzte Aktualisierung: 2026-11-08T12:14:48.024Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 92 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 93 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1510284 – IT-Systemadministrator\*in (Operation Manager\*in) (w/m/d) für das hpcFachCluster.nrw@UARuhr](https://www.interamt.de/koop/app/stelle?id=1510284)
+
+- Arbeitgeber: Universität Duisburg-Essen
+- Besoldung: –
+- Entgelt: TV-L E 10 - TV-L E 13
+- Ort: 45141 Essen
+- Entfernung: 32 km
+- Dienstort: Hybrid
+- Eingestellt: 08.11.2026
+- Bewerbungsfrist: 06.12.2026
 
 ## [1510198 – 24/7 Front Office im Nationalen IT-Lagezentrum (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1510198)
 
@@ -370,17 +381,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 25.10.2026
 - Bewerbungsfrist: 06.12.2026
-
-## [1505591 – Operative IT-Sicherheit (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1505591)
-
-- Arbeitgeber: Stadt Ratingen
-- Besoldung: –
-- Entgelt: TVöD-VKA E 11
-- Ort: 40878 Ratingen
-- Entfernung: 50 km
-- Dienstort: Hybrid
-- Eingestellt: 23.10.2026
-- Bewerbungsfrist: 13.11.2026
 
 ## [1505417 – Spezialist\*innen Data Platform (w/m/d) für den Bereich DevOps III: Künstliche Intelligenz, Datenbank und -analyse](https://www.interamt.de/koop/app/stelle?id=1505417)
 

@@ -5,9 +5,24 @@
     <link>https://chrisbgp.github.io/jobFeed/</link>
     <description>IT-Stellen für Berufstätige im öffentlichen Dienst im Umkreis von 100 km Luftlinie um Dortmund, Deutschland. Bis zu 40 neueste Treffer. Quelle: INTERAMT.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 07 Nov 2026 11:56:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:14:48 GMT</lastBuildDate>
     <ttl>1440</ttl>
     <atom:link href="https://chrisbgp.github.io/jobFeed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT-Systemadministrator*in (Operation Manager*in) (w/m/d) für das hpcFachCluster.nrw@UARuhr – 45141 Essen</title>
+      <link>https://www.interamt.de/koop/app/stelle?id=1510284</link>
+      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1510284</guid>
+      <description>Arbeitgeber: Universität Duisburg-Essen&lt;br /&gt;
+Ort: 45141 Essen&lt;br /&gt;
+Entfernung: 32 km&lt;br /&gt;
+Dienstort: Hybrid&lt;br /&gt;
+Besoldung: –&lt;br /&gt;
+Entgelt: TV-L E 10 - TV-L E 13&lt;br /&gt;
+Eingestellt: 08.11.2026&lt;br /&gt;
+Bewerbungsfrist: 06.12.2026</description>
+      <category>IT und Telekommunikation</category>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>24/7 Front Office im Nationalen IT-Lagezentrum (w/m/d) – 53175 Bonn</title>
       <link>https://www.interamt.de/koop/app/stelle?id=1510198</link>
@@ -502,21 +517,6 @@ Eingestellt: 25.10.2026&lt;br /&gt;
 Bewerbungsfrist: 06.12.2026</description>
       <category>IT und Telekommunikation</category>
       <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Operative IT-Sicherheit (m/w/d) – 40878 Ratingen</title>
-      <link>https://www.interamt.de/koop/app/stelle?id=1505591</link>
-      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1505591</guid>
-      <description>Arbeitgeber: Stadt Ratingen&lt;br /&gt;
-Ort: 40878 Ratingen&lt;br /&gt;
-Entfernung: 50 km&lt;br /&gt;
-Dienstort: Hybrid&lt;br /&gt;
-Besoldung: –&lt;br /&gt;
-Entgelt: TVöD-VKA E 11&lt;br /&gt;
-Eingestellt: 23.10.2026&lt;br /&gt;
-Bewerbungsfrist: 13.11.2026</description>
-      <category>IT und Telekommunikation</category>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Spezialist*innen Data Platform (w/m/d) für den Bereich DevOps III: Künstliche Intelligenz, Datenbank und -analyse – 53117 Bonn</title>
