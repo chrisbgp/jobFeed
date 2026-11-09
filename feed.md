@@ -1,12 +1,45 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-08T12:14:48.024Z
+Letzte Aktualisierung: 2026-11-09T14:24:39.454Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 93 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 92 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1510354 – Skript- und Webentwicklung (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1510354)
+
+- Arbeitgeber: Stadt Ratingen
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 40878 Ratingen
+- Entfernung: 50 km
+- Dienstort: Hybrid
+- Eingestellt: 09.11.2026
+- Bewerbungsfrist: 30.11.2026
+
+## [1509295 – Sachbearbeiter/in (m/w/d): IT-Forensik/Datenanalyse (m/w/d) für das Referat 615 (IT- und Cyberkompetenzzentrum im Verfassungsschutz)](https://www.interamt.de/koop/app/stelle?id=1509295)
+
+- Arbeitgeber: Ministerium des Innern des Landes NRW
+- Besoldung: A9g - A11
+- Entgelt: TV-L E 9b - TV-L E 12
+- Ort: 40217 Düsseldorf
+- Entfernung: 59 km
+- Dienstort: Hybrid
+- Eingestellt: 09.11.2026
+- Bewerbungsfrist: 15.12.2026
+
+## [1509270 – IT-Spezialist/in (m/w/d) für IT-Servicemanagement für das Referat 615 (IT- und Cyberkompetenzzentrum im Verfassungsschutz)](https://www.interamt.de/koop/app/stelle?id=1509270)
+
+- Arbeitgeber: Ministerium des Innern des Landes NRW
+- Besoldung: A9g - A11
+- Entgelt: TV-L E 9b - TV-L E 11
+- Ort: 40217 Düsseldorf
+- Entfernung: 59 km
+- Dienstort: Vor Ort
+- Eingestellt: 09.11.2026
+- Bewerbungsfrist: 15.12.2026
 
 ## [1510284 – IT-Systemadministrator\*in (Operation Manager\*in) (w/m/d) für das hpcFachCluster.nrw@UARuhr](https://www.interamt.de/koop/app/stelle?id=1510284)
 
@@ -381,39 +414,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 25.10.2026
 - Bewerbungsfrist: 06.12.2026
-
-## [1505417 – Spezialist\*innen Data Platform (w/m/d) für den Bereich DevOps III: Künstliche Intelligenz, Datenbank und -analyse](https://www.interamt.de/koop/app/stelle?id=1505417)
-
-- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
-- Besoldung: –
-- Entgelt: TVöD-Bund E 12
-- Ort: 53117 Bonn
-- Entfernung: 91 km
-- Dienstort: Hybrid
-- Eingestellt: 23.10.2026
-- Bewerbungsfrist: 12.11.2026
-
-## [1505389 – Informatiker / Betriebswirt (m/w/d) als Sachgebietsleitung (m/w/d) Servicedesk](https://www.interamt.de/koop/app/stelle?id=1505389)
-
-- Arbeitgeber: Südwestfalen-IT (Kommunaler Zweckverband)
-- Besoldung: –
-- Entgelt: TVöD-VKA E 11
-- Ort: 58675 Hemer
-- Entfernung: 26 km
-- Dienstort: Vor Ort
-- Eingestellt: 23.10.2026
-- Bewerbungsfrist: baldmöglichst
-
-## [1505388 – Produktmanager (m/w/d) Technologie](https://www.interamt.de/koop/app/stelle?id=1505388)
-
-- Arbeitgeber: Südwestfalen-IT (Kommunaler Zweckverband)
-- Besoldung: –
-- Entgelt: TVöD-VKA E 11
-- Ort: 57074 Siegen
-- Entfernung: 82 km
-- Dienstort: Hybrid
-- Eingestellt: 23.10.2026
-- Bewerbungsfrist: baldmöglichst
 
 ## [1505387 – Berater / Projektleiter (m/w/d) CAFM-Software](https://www.interamt.de/koop/app/stelle?id=1505387)
 
