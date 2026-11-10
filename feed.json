@@ -12,11 +12,39 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-09T14:24:39.454Z",
-  "source_results": 92,
+  "generated_at": "2026-11-10T13:48:20.006Z",
+  "source_results": 91,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1510867",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1510867",
+      "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+      "title": "Senior IT-Expert*innen (w/m/d) im Bereich Cybersicherheit",
+      "grade": "A14",
+      "pay": "TVöD-Bund E 14",
+      "location": "53117 Bonn",
+      "distance": "91 km",
+      "workplace": "Hybrid",
+      "posted": "10.11.2026",
+      "deadline": "30.11.2026",
+      "row_text": "1510867 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Senior IT-Expert*innen (w/m/d) im Bereich Cybersicherheit | A14 | TVöD-Bund E 14 | 53117 Bonn | 91 km | Hybrid | 10.11.2026 | 30.11.2026"
+    },
+    {
+      "id": "1510782",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1510782",
+      "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+      "title": "Test- und Anforderungsmanager*in (w/m/d) für Individuallösungen",
+      "grade": "A14",
+      "pay": "TVöD-Bund E 13",
+      "location": "53117 Bonn",
+      "distance": "91 km",
+      "workplace": "Hybrid",
+      "posted": "10.11.2026",
+      "deadline": "01.12.2026",
+      "row_text": "1510782 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Test- und Anforderungsmanager*in (w/m/d) für Individuallösungen | A14 | TVöD-Bund E 13 | 53117 Bonn | 91 km | Hybrid | 10.11.2026 | 01.12.2026"
+    },
     {
       "id": "1510354",
       "url": "https://www.interamt.de/koop/app/stelle?id=1510354",
@@ -30,6 +58,20 @@
       "posted": "09.11.2026",
       "deadline": "30.11.2026",
       "row_text": "1510354 Stellenausschreibung öffnen | Stadt Ratingen | Skript- und Webentwicklung (m/w/d) |  | TVöD-VKA E 11 | 40878 Ratingen | 50 km | Hybrid | 09.11.2026 | 30.11.2026"
+    },
+    {
+      "id": "1510186",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1510186",
+      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
+      "title": "Mehrere Referentinnen/Referenten (w/m/d) im Bereich Hoheitliches Identitätsmanagement",
+      "grade": "",
+      "pay": "TVöD-Bund E 13",
+      "location": "53175 Bonn",
+      "distance": "94 km",
+      "workplace": "Hybrid",
+      "posted": "09.11.2026",
+      "deadline": "06.12.2026",
+      "row_text": "1510186 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Mehrere Referentinnen/Referenten (w/m/d) im Bereich Hoheitliches Identitätsmanagement |  | TVöD-Bund E 13 | 53175 Bonn | 94 km | Hybrid | 09.11.2026 | 06.12.2026"
     },
     {
       "id": "1509295",
@@ -534,48 +576,6 @@
       "posted": "25.10.2026",
       "deadline": "06.12.2026",
       "row_text": "1505773 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Wir suchen Digitale Talente (w/m/d) | A10 - A11 | TVöD-Bund E 10 - TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 25.10.2026 | 06.12.2026"
-    },
-    {
-      "id": "1505387",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1505387",
-      "employer": "Südwestfalen-IT (Kommunaler Zweckverband)",
-      "title": "Berater / Projektleiter (m/w/d) CAFM-Software",
-      "grade": "",
-      "pay": "TVöD-VKA E 11",
-      "location": "57074 Siegen",
-      "distance": "82 km",
-      "workplace": "Hybrid",
-      "posted": "23.10.2026",
-      "deadline": "baldmöglichst",
-      "row_text": "1505387 Stellenausschreibung öffnen | Südwestfalen-IT (Kommunaler Zweckverband) | Berater / Projektleiter (m/w/d) CAFM-Software |  | TVöD-VKA E 11 | 57074 Siegen | 82 km | Hybrid | 23.10.2026 | baldmöglichst"
-    },
-    {
-      "id": "1505386",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1505386",
-      "employer": "Rhein-Kreis Neuss",
-      "title": "Mitarbeiter/in (w/m/d) in der Digitalen Poststelle und im Druckzentrum",
-      "grade": "",
-      "pay": "TVöD-Bund E 5",
-      "location": "41515 Grevenbroich",
-      "distance": "78 km",
-      "workplace": "Vor Ort",
-      "posted": "23.10.2026",
-      "deadline": "11.11.2026",
-      "row_text": "1505386 Stellenausschreibung öffnen | Rhein-Kreis Neuss | Mitarbeiter/in (w/m/d) in der Digitalen Poststelle und im Druckzentrum |  | TVöD-Bund E 5 | 41515 Grevenbroich | 78 km | Vor Ort | 23.10.2026 | 11.11.2026"
-    },
-    {
-      "id": "1504792",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1504792",
-      "employer": "Kreis Viersen",
-      "title": "Sachbearbeiterin / Sachbearbeiter Geografische Informationssysteme - GIS (w/m/d)",
-      "grade": "",
-      "pay": "TVöD-VKA E 10 - TVöD-VKA E 11",
-      "location": "41747 Viersen",
-      "distance": "80 km",
-      "workplace": "Hybrid",
-      "posted": "23.10.2026",
-      "deadline": "15.11.2026",
-      "row_text": "1504792 Stellenausschreibung öffnen | Kreis Viersen | Sachbearbeiterin / Sachbearbeiter Geografische Informationssysteme - GIS (w/m/d) |  | TVöD-VKA E 10 - TVöD-VKA E 11 | 41747 Viersen | 80 km | Hybrid | 23.10.2026 | 15.11.2026"
     }
   ]
 }

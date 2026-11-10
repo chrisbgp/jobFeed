@@ -1,12 +1,34 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-09T14:24:39.454Z
+Letzte Aktualisierung: 2026-11-10T13:48:20.006Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 92 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 91 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1510867 – Senior IT-Expert\*innen (w/m/d) im Bereich Cybersicherheit](https://www.interamt.de/koop/app/stelle?id=1510867)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: A14
+- Entgelt: TVöD-Bund E 14
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 10.11.2026
+- Bewerbungsfrist: 30.11.2026
+
+## [1510782 – Test- und Anforderungsmanager\*in (w/m/d) für Individuallösungen](https://www.interamt.de/koop/app/stelle?id=1510782)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: A14
+- Entgelt: TVöD-Bund E 13
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 10.11.2026
+- Bewerbungsfrist: 01.12.2026
 
 ## [1510354 – Skript- und Webentwicklung (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1510354)
 
@@ -18,6 +40,17 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 09.11.2026
 - Bewerbungsfrist: 30.11.2026
+
+## [1510186 – Mehrere Referentinnen/Referenten (w/m/d) im Bereich Hoheitliches Identitätsmanagement](https://www.interamt.de/koop/app/stelle?id=1510186)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: –
+- Entgelt: TVöD-Bund E 13
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 09.11.2026
+- Bewerbungsfrist: 06.12.2026
 
 ## [1509295 – Sachbearbeiter/in (m/w/d): IT-Forensik/Datenanalyse (m/w/d) für das Referat 615 (IT- und Cyberkompetenzzentrum im Verfassungsschutz)](https://www.interamt.de/koop/app/stelle?id=1509295)
 
@@ -414,37 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 25.10.2026
 - Bewerbungsfrist: 06.12.2026
-
-## [1505387 – Berater / Projektleiter (m/w/d) CAFM-Software](https://www.interamt.de/koop/app/stelle?id=1505387)
-
-- Arbeitgeber: Südwestfalen-IT (Kommunaler Zweckverband)
-- Besoldung: –
-- Entgelt: TVöD-VKA E 11
-- Ort: 57074 Siegen
-- Entfernung: 82 km
-- Dienstort: Hybrid
-- Eingestellt: 23.10.2026
-- Bewerbungsfrist: baldmöglichst
-
-## [1505386 – Mitarbeiter/in (w/m/d) in der Digitalen Poststelle und im Druckzentrum](https://www.interamt.de/koop/app/stelle?id=1505386)
-
-- Arbeitgeber: Rhein-Kreis Neuss
-- Besoldung: –
-- Entgelt: TVöD-Bund E 5
-- Ort: 41515 Grevenbroich
-- Entfernung: 78 km
-- Dienstort: Vor Ort
-- Eingestellt: 23.10.2026
-- Bewerbungsfrist: 11.11.2026
-
-## [1504792 – Sachbearbeiterin / Sachbearbeiter Geografische Informationssysteme - GIS (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1504792)
-
-- Arbeitgeber: Kreis Viersen
-- Besoldung: –
-- Entgelt: TVöD-VKA E 10 - TVöD-VKA E 11
-- Ort: 41747 Viersen
-- Entfernung: 80 km
-- Dienstort: Hybrid
-- Eingestellt: 23.10.2026
-- Bewerbungsfrist: 15.11.2026
 
