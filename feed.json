@@ -12,11 +12,39 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-10T13:48:20.006Z",
+  "generated_at": "2026-11-11T12:59:17.684Z",
   "source_results": 91,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1510832",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1510832",
+      "employer": "Stadt Münster",
+      "title": "DevOps Engineer (m/w/d)",
+      "grade": "A13h - A16",
+      "pay": "TVöD-VKA E 9a - TVöD-VKA E 11",
+      "location": "48153 Münster",
+      "distance": "49 km",
+      "workplace": "Hybrid",
+      "posted": "11.11.2026",
+      "deadline": "29.11.2026",
+      "row_text": "1510832 Stellenausschreibung öffnen | Stadt Münster | DevOps Engineer (m/w/d) | A13h - A16 | TVöD-VKA E 9a - TVöD-VKA E 11 | 48153 Münster | 49 km | Hybrid | 11.11.2026 | 29.11.2026"
+    },
+    {
+      "id": "1509549",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1509549",
+      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
+      "title": "Sachbearbeitung (w/m/d) für Prozess- und Organisationsmanagement",
+      "grade": "A11",
+      "pay": "TVöD-Bund E 11",
+      "location": "53175 Bonn",
+      "distance": "94 km",
+      "workplace": "Hybrid",
+      "posted": "11.11.2026",
+      "deadline": "06.12.2026",
+      "row_text": "1509549 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Sachbearbeitung (w/m/d) für Prozess- und Organisationsmanagement | A11 | TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 11.11.2026 | 06.12.2026"
+    },
     {
       "id": "1510867",
       "url": "https://www.interamt.de/koop/app/stelle?id=1510867",
@@ -466,20 +494,6 @@
       "row_text": "1506614 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | IT-Expert*innen (w/m/d) im Bereich Cybersicherheit für das Referat IT-Prüfungen II | A11 | TVöD-Bund E 10 | 53117 Bonn | 91 km | Hybrid | 27.10.2026 | 12.11.2026"
     },
     {
-      "id": "1506572",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1506572",
-      "employer": "TH Köln",
-      "title": "SAP-Systemadministrator*in mit Schwerpunkt Basisbetrieb/ SAP S/4HANA",
-      "grade": "",
-      "pay": "TV-L E 12",
-      "location": "50968 Köln",
-      "distance": "76 km",
-      "workplace": "Hybrid",
-      "posted": "27.10.2026",
-      "deadline": "10.11.2026",
-      "row_text": "1506572 Stellenausschreibung öffnen | TH Köln | SAP-Systemadministrator*in mit Schwerpunkt Basisbetrieb/ SAP S/4HANA |  | TV-L E 12 | 50968 Köln | 76 km | Hybrid | 27.10.2026 | 10.11.2026"
-    },
-    {
       "id": "1506540",
       "url": "https://www.interamt.de/koop/app/stelle?id=1506540",
       "employer": "Bundesverwaltungsamt",
@@ -562,20 +576,6 @@
       "posted": "25.10.2026",
       "deadline": "06.12.2026",
       "row_text": "1505774 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Wir suchen Digitale Talente (w/m/d) | A13h - A14 | TVöD-Bund E 13 - TVöD-Bund E 14 | 53175 Bonn | 94 km | Hybrid | 25.10.2026 | 06.12.2026"
-    },
-    {
-      "id": "1505773",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1505773",
-      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
-      "title": "Wir suchen Digitale Talente (w/m/d)",
-      "grade": "A10 - A11",
-      "pay": "TVöD-Bund E 10 - TVöD-Bund E 11",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "25.10.2026",
-      "deadline": "06.12.2026",
-      "row_text": "1505773 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Wir suchen Digitale Talente (w/m/d) | A10 - A11 | TVöD-Bund E 10 - TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 25.10.2026 | 06.12.2026"
     }
   ]
 }
