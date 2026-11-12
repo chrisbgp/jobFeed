@@ -12,11 +12,53 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-11T12:59:17.684Z",
-  "source_results": 91,
+  "generated_at": "2026-11-12T14:00:37.669Z",
+  "source_results": 90,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1511659",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1511659",
+      "employer": "Ennepe-Ruhr-Kreis",
+      "title": "Applicationmanager*In mit dem Schwerpunkt DMS (m/w/d)",
+      "grade": "A11",
+      "pay": "TVöD-VKA E 10",
+      "location": "58332 Schwelm",
+      "distance": "29 km",
+      "workplace": "Hybrid",
+      "posted": "12.11.2026",
+      "deadline": "03.12.2026",
+      "row_text": "1511659 Stellenausschreibung öffnen | Ennepe-Ruhr-Kreis | Applicationmanager*In mit dem Schwerpunkt DMS (m/w/d) | A11 | TVöD-VKA E 10 | 58332 Schwelm | 29 km | Hybrid | 12.11.2026 | 03.12.2026"
+    },
+    {
+      "id": "1511522",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1511522",
+      "employer": "Stadt Ratingen",
+      "title": "Administrative Betreuung SAP (m/w/d)",
+      "grade": "",
+      "pay": "TVöD-VKA E 11",
+      "location": "40878 Ratingen",
+      "distance": "50 km",
+      "workplace": "Vor Ort",
+      "posted": "12.11.2026",
+      "deadline": "03.12.2026",
+      "row_text": "1511522 Stellenausschreibung öffnen | Stadt Ratingen | Administrative Betreuung SAP (m/w/d) |  | TVöD-VKA E 11 | 40878 Ratingen | 50 km | Vor Ort | 12.11.2026 | 03.12.2026"
+    },
+    {
+      "id": "1511387",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1511387",
+      "employer": "Stadt Ratingen",
+      "title": "Zentrales Projektmanagement Digitalisierung (m/w/d)",
+      "grade": "",
+      "pay": "TVöD-VKA E 11",
+      "location": "40878 Ratingen",
+      "distance": "50 km",
+      "workplace": "Hybrid",
+      "posted": "11.11.2026",
+      "deadline": "02.12.2026",
+      "row_text": "1511387 Stellenausschreibung öffnen | Stadt Ratingen | Zentrales Projektmanagement Digitalisierung (m/w/d) |  | TVöD-VKA E 11 | 40878 Ratingen | 50 km | Hybrid | 11.11.2026 | 02.12.2026"
+    },
     {
       "id": "1510832",
       "url": "https://www.interamt.de/koop/app/stelle?id=1510832",
@@ -534,48 +576,6 @@
       "posted": "27.10.2026",
       "deadline": "17.11.2026",
       "row_text": "1506198 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Senior Spezialist*in für Cybersicherheit (w/m/d) | A14 | TVöD-Bund E 13 | 53117 Bonn | 91 km | Hybrid | 27.10.2026 | 17.11.2026"
-    },
-    {
-      "id": "1505777",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1505777",
-      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
-      "title": "Wir suchen Digitale Talente (w/m/d)",
-      "grade": "",
-      "pay": "TVöD-Bund E 13 - TVöD-Bund E 14",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "25.10.2026",
-      "deadline": "06.12.2026",
-      "row_text": "1505777 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Wir suchen Digitale Talente (w/m/d) |  | TVöD-Bund E 13 - TVöD-Bund E 14 | 53175 Bonn | 94 km | Hybrid | 25.10.2026 | 06.12.2026"
-    },
-    {
-      "id": "1505775",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1505775",
-      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
-      "title": "Wir suchen Digitale Talente (w/m/d)",
-      "grade": "",
-      "pay": "TVöD-Bund E 10 - TVöD-Bund E 11",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "25.10.2026",
-      "deadline": "06.12.2026",
-      "row_text": "1505775 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Wir suchen Digitale Talente (w/m/d) |  | TVöD-Bund E 10 - TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 25.10.2026 | 06.12.2026"
-    },
-    {
-      "id": "1505774",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1505774",
-      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
-      "title": "Wir suchen Digitale Talente (w/m/d)",
-      "grade": "A13h - A14",
-      "pay": "TVöD-Bund E 13 - TVöD-Bund E 14",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "25.10.2026",
-      "deadline": "06.12.2026",
-      "row_text": "1505774 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Wir suchen Digitale Talente (w/m/d) | A13h - A14 | TVöD-Bund E 13 - TVöD-Bund E 14 | 53175 Bonn | 94 km | Hybrid | 25.10.2026 | 06.12.2026"
     }
   ]
 }

@@ -1,12 +1,45 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-11T12:59:17.684Z
+Letzte Aktualisierung: 2026-11-12T14:00:37.669Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 91 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 90 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1511659 – Applicationmanager\*In mit dem Schwerpunkt DMS (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1511659)
+
+- Arbeitgeber: Ennepe-Ruhr-Kreis
+- Besoldung: A11
+- Entgelt: TVöD-VKA E 10
+- Ort: 58332 Schwelm
+- Entfernung: 29 km
+- Dienstort: Hybrid
+- Eingestellt: 12.11.2026
+- Bewerbungsfrist: 03.12.2026
+
+## [1511522 – Administrative Betreuung SAP (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1511522)
+
+- Arbeitgeber: Stadt Ratingen
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 40878 Ratingen
+- Entfernung: 50 km
+- Dienstort: Vor Ort
+- Eingestellt: 12.11.2026
+- Bewerbungsfrist: 03.12.2026
+
+## [1511387 – Zentrales Projektmanagement Digitalisierung (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1511387)
+
+- Arbeitgeber: Stadt Ratingen
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 40878 Ratingen
+- Entfernung: 50 km
+- Dienstort: Hybrid
+- Eingestellt: 11.11.2026
+- Bewerbungsfrist: 02.12.2026
 
 ## [1510832 – DevOps Engineer (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1510832)
 
@@ -414,37 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 27.10.2026
 - Bewerbungsfrist: 17.11.2026
-
-## [1505777 – Wir suchen Digitale Talente (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1505777)
-
-- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
-- Besoldung: –
-- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
-- Ort: 53175 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 25.10.2026
-- Bewerbungsfrist: 06.12.2026
-
-## [1505775 – Wir suchen Digitale Talente (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1505775)
-
-- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
-- Besoldung: –
-- Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11
-- Ort: 53175 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 25.10.2026
-- Bewerbungsfrist: 06.12.2026
-
-## [1505774 – Wir suchen Digitale Talente (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1505774)
-
-- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
-- Besoldung: A13h - A14
-- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
-- Ort: 53175 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 25.10.2026
-- Bewerbungsfrist: 06.12.2026
 
