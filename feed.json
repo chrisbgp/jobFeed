@@ -12,11 +12,67 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-12T14:00:37.669Z",
-  "source_results": 90,
+  "generated_at": "2026-11-13T13:27:41.927Z",
+  "source_results": 92,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1512397",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512397",
+      "employer": "Kassenärztliche Vereinigung Westfalen-Lippe",
+      "title": "Experte (m/w/d) eHealth und Telematikinfrastruktur",
+      "grade": "",
+      "pay": "TV-L E 11 - TV-L E 12",
+      "location": "44141 Dortmund",
+      "distance": "0 km",
+      "workplace": "Hybrid",
+      "posted": "13.11.2026",
+      "deadline": "11.12.2026",
+      "row_text": "1512397 Stellenausschreibung öffnen | Kassenärztliche Vereinigung Westfalen-Lippe | Experte (m/w/d) eHealth und Telematikinfrastruktur |  | TV-L E 11 - TV-L E 12 | 44141 Dortmund | 0 km | Hybrid | 13.11.2026 | 11.12.2026"
+    },
+    {
+      "id": "1512278",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512278",
+      "employer": "GKD Recklinghausen, Zweckverband",
+      "title": "Applikationsmanager:in Linux und Kubernetes (m/w/d)",
+      "grade": "",
+      "pay": "TVöD-VKA E 10 - TVöD-VKA E 11",
+      "location": "45665 Recklinghausen",
+      "distance": "21 km",
+      "workplace": "Hybrid",
+      "posted": "13.11.2026",
+      "deadline": "31.01.2027",
+      "row_text": "1512278 Stellenausschreibung öffnen | GKD Recklinghausen, Zweckverband | Applikationsmanager:in Linux und Kubernetes (m/w/d) |  | TVöD-VKA E 10 - TVöD-VKA E 11 | 45665 Recklinghausen | 21 km | Hybrid | 13.11.2026 | 31.01.2027"
+    },
+    {
+      "id": "1512093",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512093",
+      "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+      "title": "Informationssicherheitsspezialist*in (w/m/d) für den Bereich Informationssicherheitsmanagement",
+      "grade": "A14",
+      "pay": "TVöD-Bund E 13",
+      "location": "53117 Bonn",
+      "distance": "91 km",
+      "workplace": "Hybrid",
+      "posted": "13.11.2026",
+      "deadline": "26.11.2026",
+      "row_text": "1512093 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Informationssicherheitsspezialist*in (w/m/d) für den Bereich Informationssicherheitsmanagement | A14 | TVöD-Bund E 13 | 53117 Bonn | 91 km | Hybrid | 13.11.2026 | 26.11.2026"
+    },
+    {
+      "id": "1511957",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1511957",
+      "employer": "Universität Duisburg-Essen",
+      "title": "Fachberater*in HPC (HPC-Consultant) (w/m/d) für das hpcFachCluster.nrw@UARuhr",
+      "grade": "",
+      "pay": "TV-L E 13",
+      "location": "45141 Essen",
+      "distance": "32 km",
+      "workplace": "Hybrid",
+      "posted": "12.11.2026",
+      "deadline": "14.12.2026",
+      "row_text": "1511957 Stellenausschreibung öffnen | Universität Duisburg-Essen | Fachberater*in HPC (HPC-Consultant) (w/m/d) für das hpcFachCluster.nrw@UARuhr |  | TV-L E 13 | 45141 Essen | 32 km | Hybrid | 12.11.2026 | 14.12.2026"
+    },
     {
       "id": "1511659",
       "url": "https://www.interamt.de/koop/app/stelle?id=1511659",
@@ -84,8 +140,8 @@
       "distance": "94 km",
       "workplace": "Hybrid",
       "posted": "11.11.2026",
-      "deadline": "06.12.2026",
-      "row_text": "1509549 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Sachbearbeitung (w/m/d) für Prozess- und Organisationsmanagement | A11 | TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 11.11.2026 | 06.12.2026"
+      "deadline": "03.12.2026",
+      "row_text": "1509549 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Sachbearbeitung (w/m/d) für Prozess- und Organisationsmanagement | A11 | TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 11.11.2026 | 03.12.2026"
     },
     {
       "id": "1510867",
@@ -520,62 +576,6 @@
       "posted": "29.10.2026",
       "deadline": "15.11.2026",
       "row_text": "1503861 Stellenausschreibung öffnen | Kommunalbetrieb Krefeld AöR | Manager/in (m/w/d) Digitalisierungs- und Entwicklungsstrategie |  | TVöD-VKA E 12 | 47798 Krefeld | 65 km | Hybrid | 29.10.2026 | 15.11.2026"
-    },
-    {
-      "id": "1506614",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1506614",
-      "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
-      "title": "IT-Expert*innen (w/m/d) im Bereich Cybersicherheit für das Referat IT-Prüfungen II",
-      "grade": "A11",
-      "pay": "TVöD-Bund E 10",
-      "location": "53117 Bonn",
-      "distance": "91 km",
-      "workplace": "Hybrid",
-      "posted": "27.10.2026",
-      "deadline": "12.11.2026",
-      "row_text": "1506614 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | IT-Expert*innen (w/m/d) im Bereich Cybersicherheit für das Referat IT-Prüfungen II | A11 | TVöD-Bund E 10 | 53117 Bonn | 91 km | Hybrid | 27.10.2026 | 12.11.2026"
-    },
-    {
-      "id": "1506540",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1506540",
-      "employer": "Bundesverwaltungsamt",
-      "title": "Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Köln",
-      "grade": "",
-      "pay": "TVöD-Bund E 10 - TVöD-Bund E 11",
-      "location": "50829 Köln",
-      "distance": "73 km",
-      "workplace": "Hybrid",
-      "posted": "27.10.2026",
-      "deadline": "17.11.2026",
-      "row_text": "1506540 Stellenausschreibung öffnen | Bundesverwaltungsamt | Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Köln |  | TVöD-Bund E 10 - TVöD-Bund E 11 | 50829 Köln | 73 km | Hybrid | 27.10.2026 | 17.11.2026"
-    },
-    {
-      "id": "1506539",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1506539",
-      "employer": "Bundesverwaltungsamt",
-      "title": "Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Bonn",
-      "grade": "",
-      "pay": "TVöD-Bund E 10 - TVöD-Bund E 11",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "27.10.2026",
-      "deadline": "17.11.2026",
-      "row_text": "1506539 Stellenausschreibung öffnen | Bundesverwaltungsamt | Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Bonn |  | TVöD-Bund E 10 - TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 27.10.2026 | 17.11.2026"
-    },
-    {
-      "id": "1506198",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1506198",
-      "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
-      "title": "Senior Spezialist*in für Cybersicherheit (w/m/d)",
-      "grade": "A14",
-      "pay": "TVöD-Bund E 13",
-      "location": "53117 Bonn",
-      "distance": "91 km",
-      "workplace": "Hybrid",
-      "posted": "27.10.2026",
-      "deadline": "17.11.2026",
-      "row_text": "1506198 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Senior Spezialist*in für Cybersicherheit (w/m/d) | A14 | TVöD-Bund E 13 | 53117 Bonn | 91 km | Hybrid | 27.10.2026 | 17.11.2026"
     }
   ]
 }

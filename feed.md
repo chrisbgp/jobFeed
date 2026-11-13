@@ -1,12 +1,56 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-12T14:00:37.669Z
+Letzte Aktualisierung: 2026-11-13T13:27:41.927Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 90 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 92 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1512397 – Experte (m/w/d) eHealth und Telematikinfrastruktur](https://www.interamt.de/koop/app/stelle?id=1512397)
+
+- Arbeitgeber: Kassenärztliche Vereinigung Westfalen-Lippe
+- Besoldung: –
+- Entgelt: TV-L E 11 - TV-L E 12
+- Ort: 44141 Dortmund
+- Entfernung: 0 km
+- Dienstort: Hybrid
+- Eingestellt: 13.11.2026
+- Bewerbungsfrist: 11.12.2026
+
+## [1512278 – Applikationsmanager:in Linux und Kubernetes (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1512278)
+
+- Arbeitgeber: GKD Recklinghausen, Zweckverband
+- Besoldung: –
+- Entgelt: TVöD-VKA E 10 - TVöD-VKA E 11
+- Ort: 45665 Recklinghausen
+- Entfernung: 21 km
+- Dienstort: Hybrid
+- Eingestellt: 13.11.2026
+- Bewerbungsfrist: 31.01.2027
+
+## [1512093 – Informationssicherheitsspezialist\*in (w/m/d) für den Bereich Informationssicherheitsmanagement](https://www.interamt.de/koop/app/stelle?id=1512093)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: A14
+- Entgelt: TVöD-Bund E 13
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 13.11.2026
+- Bewerbungsfrist: 26.11.2026
+
+## [1511957 – Fachberater\*in HPC (HPC-Consultant) (w/m/d) für das hpcFachCluster.nrw@UARuhr](https://www.interamt.de/koop/app/stelle?id=1511957)
+
+- Arbeitgeber: Universität Duisburg-Essen
+- Besoldung: –
+- Entgelt: TV-L E 13
+- Ort: 45141 Essen
+- Entfernung: 32 km
+- Dienstort: Hybrid
+- Eingestellt: 12.11.2026
+- Bewerbungsfrist: 14.12.2026
 
 ## [1511659 – Applicationmanager\*In mit dem Schwerpunkt DMS (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1511659)
 
@@ -61,7 +105,7 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Entfernung: 94 km
 - Dienstort: Hybrid
 - Eingestellt: 11.11.2026
-- Bewerbungsfrist: 06.12.2026
+- Bewerbungsfrist: 03.12.2026
 
 ## [1510867 – Senior IT-Expert\*innen (w/m/d) im Bereich Cybersicherheit](https://www.interamt.de/koop/app/stelle?id=1510867)
 
@@ -403,48 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 29.10.2026
 - Bewerbungsfrist: 15.11.2026
-
-## [1506614 – IT-Expert\*innen (w/m/d) im Bereich Cybersicherheit für das Referat IT-Prüfungen II](https://www.interamt.de/koop/app/stelle?id=1506614)
-
-- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
-- Besoldung: A11
-- Entgelt: TVöD-Bund E 10
-- Ort: 53117 Bonn
-- Entfernung: 91 km
-- Dienstort: Hybrid
-- Eingestellt: 27.10.2026
-- Bewerbungsfrist: 12.11.2026
-
-## [1506540 – Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Köln](https://www.interamt.de/koop/app/stelle?id=1506540)
-
-- Arbeitgeber: Bundesverwaltungsamt
-- Besoldung: –
-- Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11
-- Ort: 50829 Köln
-- Entfernung: 73 km
-- Dienstort: Hybrid
-- Eingestellt: 27.10.2026
-- Bewerbungsfrist: 17.11.2026
-
-## [1506539 – Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Bonn](https://www.interamt.de/koop/app/stelle?id=1506539)
-
-- Arbeitgeber: Bundesverwaltungsamt
-- Besoldung: –
-- Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11
-- Ort: 53175 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 27.10.2026
-- Bewerbungsfrist: 17.11.2026
-
-## [1506198 – Senior Spezialist\*in für Cybersicherheit (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1506198)
-
-- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
-- Besoldung: A14
-- Entgelt: TVöD-Bund E 13
-- Ort: 53117 Bonn
-- Entfernung: 91 km
-- Dienstort: Hybrid
-- Eingestellt: 27.10.2026
-- Bewerbungsfrist: 17.11.2026
 

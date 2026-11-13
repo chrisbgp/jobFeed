@@ -5,9 +5,69 @@
     <link>https://chrisbgp.github.io/jobFeed/</link>
     <description>IT-Stellen für Berufstätige im öffentlichen Dienst im Umkreis von 100 km Luftlinie um Dortmund, Deutschland. Bis zu 40 neueste Treffer. Quelle: INTERAMT.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 12 Nov 2026 14:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:27:41 GMT</lastBuildDate>
     <ttl>1440</ttl>
     <atom:link href="https://chrisbgp.github.io/jobFeed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experte (m/w/d) eHealth und Telematikinfrastruktur – 44141 Dortmund</title>
+      <link>https://www.interamt.de/koop/app/stelle?id=1512397</link>
+      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1512397</guid>
+      <description>Arbeitgeber: Kassenärztliche Vereinigung Westfalen-Lippe&lt;br /&gt;
+Ort: 44141 Dortmund&lt;br /&gt;
+Entfernung: 0 km&lt;br /&gt;
+Dienstort: Hybrid&lt;br /&gt;
+Besoldung: –&lt;br /&gt;
+Entgelt: TV-L E 11 - TV-L E 12&lt;br /&gt;
+Eingestellt: 13.11.2026&lt;br /&gt;
+Bewerbungsfrist: 11.12.2026</description>
+      <category>IT und Telekommunikation</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Applikationsmanager:in Linux und Kubernetes (m/w/d) – 45665 Recklinghausen</title>
+      <link>https://www.interamt.de/koop/app/stelle?id=1512278</link>
+      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1512278</guid>
+      <description>Arbeitgeber: GKD Recklinghausen, Zweckverband&lt;br /&gt;
+Ort: 45665 Recklinghausen&lt;br /&gt;
+Entfernung: 21 km&lt;br /&gt;
+Dienstort: Hybrid&lt;br /&gt;
+Besoldung: –&lt;br /&gt;
+Entgelt: TVöD-VKA E 10 - TVöD-VKA E 11&lt;br /&gt;
+Eingestellt: 13.11.2026&lt;br /&gt;
+Bewerbungsfrist: 31.01.2027</description>
+      <category>IT und Telekommunikation</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Informationssicherheitsspezialist*in (w/m/d) für den Bereich Informationssicherheitsmanagement – 53117 Bonn</title>
+      <link>https://www.interamt.de/koop/app/stelle?id=1512093</link>
+      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1512093</guid>
+      <description>Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht&lt;br /&gt;
+Ort: 53117 Bonn&lt;br /&gt;
+Entfernung: 91 km&lt;br /&gt;
+Dienstort: Hybrid&lt;br /&gt;
+Besoldung: A14&lt;br /&gt;
+Entgelt: TVöD-Bund E 13&lt;br /&gt;
+Eingestellt: 13.11.2026&lt;br /&gt;
+Bewerbungsfrist: 26.11.2026</description>
+      <category>IT und Telekommunikation</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fachberater*in HPC (HPC-Consultant) (w/m/d) für das hpcFachCluster.nrw@UARuhr – 45141 Essen</title>
+      <link>https://www.interamt.de/koop/app/stelle?id=1511957</link>
+      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1511957</guid>
+      <description>Arbeitgeber: Universität Duisburg-Essen&lt;br /&gt;
+Ort: 45141 Essen&lt;br /&gt;
+Entfernung: 32 km&lt;br /&gt;
+Dienstort: Hybrid&lt;br /&gt;
+Besoldung: –&lt;br /&gt;
+Entgelt: TV-L E 13&lt;br /&gt;
+Eingestellt: 12.11.2026&lt;br /&gt;
+Bewerbungsfrist: 14.12.2026</description>
+      <category>IT und Telekommunikation</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Applicationmanager*In mit dem Schwerpunkt DMS (m/w/d) – 58332 Schwelm</title>
       <link>https://www.interamt.de/koop/app/stelle?id=1511659</link>
@@ -79,7 +139,7 @@ Dienstort: Hybrid&lt;br /&gt;
 Besoldung: A11&lt;br /&gt;
 Entgelt: TVöD-Bund E 11&lt;br /&gt;
 Eingestellt: 11.11.2026&lt;br /&gt;
-Bewerbungsfrist: 06.12.2026</description>
+Bewerbungsfrist: 03.12.2026</description>
       <category>IT und Telekommunikation</category>
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
     </item>
@@ -547,66 +607,6 @@ Eingestellt: 29.10.2026&lt;br /&gt;
 Bewerbungsfrist: 15.11.2026</description>
       <category>IT und Telekommunikation</category>
       <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT-Expert*innen (w/m/d) im Bereich Cybersicherheit für das Referat IT-Prüfungen II – 53117 Bonn</title>
-      <link>https://www.interamt.de/koop/app/stelle?id=1506614</link>
-      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1506614</guid>
-      <description>Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht&lt;br /&gt;
-Ort: 53117 Bonn&lt;br /&gt;
-Entfernung: 91 km&lt;br /&gt;
-Dienstort: Hybrid&lt;br /&gt;
-Besoldung: A11&lt;br /&gt;
-Entgelt: TVöD-Bund E 10&lt;br /&gt;
-Eingestellt: 27.10.2026&lt;br /&gt;
-Bewerbungsfrist: 12.11.2026</description>
-      <category>IT und Telekommunikation</category>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Köln – 50829 Köln</title>
-      <link>https://www.interamt.de/koop/app/stelle?id=1506540</link>
-      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1506540</guid>
-      <description>Arbeitgeber: Bundesverwaltungsamt&lt;br /&gt;
-Ort: 50829 Köln&lt;br /&gt;
-Entfernung: 73 km&lt;br /&gt;
-Dienstort: Hybrid&lt;br /&gt;
-Besoldung: –&lt;br /&gt;
-Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11&lt;br /&gt;
-Eingestellt: 27.10.2026&lt;br /&gt;
-Bewerbungsfrist: 17.11.2026</description>
-      <category>IT und Telekommunikation</category>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sachbearbeitung (m/w/d) im Bereich IT-Support am Standort Bonn – 53175 Bonn</title>
-      <link>https://www.interamt.de/koop/app/stelle?id=1506539</link>
-      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1506539</guid>
-      <description>Arbeitgeber: Bundesverwaltungsamt&lt;br /&gt;
-Ort: 53175 Bonn&lt;br /&gt;
-Entfernung: 94 km&lt;br /&gt;
-Dienstort: Hybrid&lt;br /&gt;
-Besoldung: –&lt;br /&gt;
-Entgelt: TVöD-Bund E 10 - TVöD-Bund E 11&lt;br /&gt;
-Eingestellt: 27.10.2026&lt;br /&gt;
-Bewerbungsfrist: 17.11.2026</description>
-      <category>IT und Telekommunikation</category>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Senior Spezialist*in für Cybersicherheit (w/m/d) – 53117 Bonn</title>
-      <link>https://www.interamt.de/koop/app/stelle?id=1506198</link>
-      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1506198</guid>
-      <description>Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht&lt;br /&gt;
-Ort: 53117 Bonn&lt;br /&gt;
-Entfernung: 91 km&lt;br /&gt;
-Dienstort: Hybrid&lt;br /&gt;
-Besoldung: A14&lt;br /&gt;
-Entgelt: TVöD-Bund E 13&lt;br /&gt;
-Eingestellt: 27.10.2026&lt;br /&gt;
-Bewerbungsfrist: 17.11.2026</description>
-      <category>IT und Telekommunikation</category>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
