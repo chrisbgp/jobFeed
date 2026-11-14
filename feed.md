@@ -1,12 +1,23 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-13T13:27:41.927Z
+Letzte Aktualisierung: 2026-11-14T12:31:54.926Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 92 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 89 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1512453 – Referatsleitungen (m/w/d) für die Abteilung IT im Bereich der Öffentlichen Sicherheit](https://www.interamt.de/koop/app/stelle?id=1512453)
+
+- Arbeitgeber: Bundesverwaltungsamt
+- Besoldung: A13h - A14
+- Entgelt: TVöD-Bund E 13
+- Ort: 50829 Köln
+- Entfernung: 73 km
+- Dienstort: Hybrid
+- Eingestellt: 13.11.2026
+- Bewerbungsfrist: 30.11.2026
 
 ## [1512397 – Experte (m/w/d) eHealth und Telematikinfrastruktur](https://www.interamt.de/koop/app/stelle?id=1512397)
 
@@ -381,17 +392,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Vor Ort
 - Eingestellt: 30.10.2026
 - Bewerbungsfrist: 27.11.2026
-
-## [1507488 – zwei Mitarbeiterinnen/Mitarbeiter für Medientechnik (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1507488)
-
-- Arbeitgeber: Landtag NRW, der Präsident
-- Besoldung: –
-- Entgelt: TV-L E 7 - TV-L E 9a
-- Ort: 40221 Düsseldorf
-- Entfernung: 61 km
-- Dienstort: Hybrid
-- Eingestellt: 29.10.2026
-- Bewerbungsfrist: 19.11.2026
 
 ## [1507331 – Projektleitung (m/w/d) Dokumentenmanagement](https://www.interamt.de/koop/app/stelle?id=1507331)
 

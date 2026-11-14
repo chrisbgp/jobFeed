@@ -5,9 +5,24 @@
     <link>https://chrisbgp.github.io/jobFeed/</link>
     <description>IT-Stellen für Berufstätige im öffentlichen Dienst im Umkreis von 100 km Luftlinie um Dortmund, Deutschland. Bis zu 40 neueste Treffer. Quelle: INTERAMT.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:27:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:31:54 GMT</lastBuildDate>
     <ttl>1440</ttl>
     <atom:link href="https://chrisbgp.github.io/jobFeed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Referatsleitungen (m/w/d) für die Abteilung IT im Bereich der Öffentlichen Sicherheit – 50829 Köln</title>
+      <link>https://www.interamt.de/koop/app/stelle?id=1512453</link>
+      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1512453</guid>
+      <description>Arbeitgeber: Bundesverwaltungsamt&lt;br /&gt;
+Ort: 50829 Köln&lt;br /&gt;
+Entfernung: 73 km&lt;br /&gt;
+Dienstort: Hybrid&lt;br /&gt;
+Besoldung: A13h - A14&lt;br /&gt;
+Entgelt: TVöD-Bund E 13&lt;br /&gt;
+Eingestellt: 13.11.2026&lt;br /&gt;
+Bewerbungsfrist: 30.11.2026</description>
+      <category>IT und Telekommunikation</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Experte (m/w/d) eHealth und Telematikinfrastruktur – 44141 Dortmund</title>
       <link>https://www.interamt.de/koop/app/stelle?id=1512397</link>
@@ -517,21 +532,6 @@ Eingestellt: 30.10.2026&lt;br /&gt;
 Bewerbungsfrist: 27.11.2026</description>
       <category>IT und Telekommunikation</category>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>zwei Mitarbeiterinnen/Mitarbeiter für Medientechnik (m/w/d) – 40221 Düsseldorf</title>
-      <link>https://www.interamt.de/koop/app/stelle?id=1507488</link>
-      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1507488</guid>
-      <description>Arbeitgeber: Landtag NRW, der Präsident&lt;br /&gt;
-Ort: 40221 Düsseldorf&lt;br /&gt;
-Entfernung: 61 km&lt;br /&gt;
-Dienstort: Hybrid&lt;br /&gt;
-Besoldung: –&lt;br /&gt;
-Entgelt: TV-L E 7 - TV-L E 9a&lt;br /&gt;
-Eingestellt: 29.10.2026&lt;br /&gt;
-Bewerbungsfrist: 19.11.2026</description>
-      <category>IT und Telekommunikation</category>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Projektleitung (m/w/d) Dokumentenmanagement – 46483 Wesel</title>

@@ -12,11 +12,25 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-13T13:27:41.927Z",
-  "source_results": 92,
+  "generated_at": "2026-11-14T12:31:54.926Z",
+  "source_results": 89,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1512453",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512453",
+      "employer": "Bundesverwaltungsamt",
+      "title": "Referatsleitungen (m/w/d) für die Abteilung IT im Bereich der Öffentlichen Sicherheit",
+      "grade": "A13h - A14",
+      "pay": "TVöD-Bund E 13",
+      "location": "50829 Köln",
+      "distance": "73 km",
+      "workplace": "Hybrid",
+      "posted": "13.11.2026",
+      "deadline": "30.11.2026",
+      "row_text": "1512453 Stellenausschreibung öffnen | Bundesverwaltungsamt | Referatsleitungen (m/w/d) für die Abteilung IT im Bereich der Öffentlichen Sicherheit | A13h - A14 | TVöD-Bund E 13 | 50829 Köln | 73 km | Hybrid | 13.11.2026 | 30.11.2026"
+    },
     {
       "id": "1512397",
       "url": "https://www.interamt.de/koop/app/stelle?id=1512397",
@@ -492,20 +506,6 @@
       "posted": "30.10.2026",
       "deadline": "27.11.2026",
       "row_text": "1507742 Stellenausschreibung öffnen | Klingenstadt Solingen | Projekt- und Produktmanagement (Schuldigitalisierung) solingen.digital | A12 | TVöD-VKA E 12 | 42651 Solingen | 47 km | Vor Ort | 30.10.2026 | 27.11.2026"
-    },
-    {
-      "id": "1507488",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1507488",
-      "employer": "Landtag NRW, der Präsident",
-      "title": "zwei Mitarbeiterinnen/Mitarbeiter für Medientechnik (m/w/d)",
-      "grade": "",
-      "pay": "TV-L E 7 - TV-L E 9a",
-      "location": "40221 Düsseldorf",
-      "distance": "61 km",
-      "workplace": "Hybrid",
-      "posted": "29.10.2026",
-      "deadline": "19.11.2026",
-      "row_text": "1507488 Stellenausschreibung öffnen | Landtag NRW, der Präsident | zwei Mitarbeiterinnen/Mitarbeiter für Medientechnik (m/w/d) |  | TV-L E 7 - TV-L E 9a | 40221 Düsseldorf | 61 km | Hybrid | 29.10.2026 | 19.11.2026"
     },
     {
       "id": "1507331",
