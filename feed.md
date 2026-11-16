@@ -1,12 +1,34 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-15T12:59:11.739Z
+Letzte Aktualisierung: 2026-11-16T14:02:18.643Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 87 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 80 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1512815 – IT-Referent/-in (w/ m/ d) für IT-Client und Service Management](https://www.interamt.de/koop/app/stelle?id=1512815)
+
+- Arbeitgeber: Bundesamt für Soziale Sicherung
+- Besoldung: A14
+- Entgelt: TVöD-Bund E 14
+- Ort: 53113 Bonn
+- Entfernung: 93 km
+- Dienstort: Vor Ort
+- Eingestellt: 16.11.2026
+- Bewerbungsfrist: 06.12.2026
+
+## [1512676 – IT-Administrator/-in Citrix (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1512676)
+
+- Arbeitgeber: ITK Rheinland
+- Besoldung: –
+- Entgelt: TVöD-VKA E 9a - TVöD-VKA E 10
+- Ort: 41460 Neuss
+- Entfernung: 64 km
+- Dienstort: Hybrid
+- Eingestellt: 16.11.2026
+- Bewerbungsfrist: 16.12.2026
 
 ## [1512453 – Referatsleitungen (m/w/d) für die Abteilung IT im Bereich der Öffentlichen Sicherheit](https://www.interamt.de/koop/app/stelle?id=1512453)
 
@@ -393,17 +415,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Eingestellt: 30.10.2026
 - Bewerbungsfrist: 27.11.2026
 
-## [1507331 – Projektleitung (m/w/d) Dokumentenmanagement](https://www.interamt.de/koop/app/stelle?id=1507331)
-
-- Arbeitgeber: Kreis Wesel
-- Besoldung: –
-- Entgelt: TVöD-VKA E 11
-- Ort: 46483 Wesel
-- Entfernung: 62 km
-- Dienstort: Hybrid
-- Eingestellt: 29.10.2026
-- Bewerbungsfrist: 18.11.2026
-
 ## [1507172 – Netzwerk- und Kapazitätsmanager\*in (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1507172)
 
 - Arbeitgeber: Hochschule Düsseldorf
@@ -436,15 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 29.10.2026
 - Bewerbungsfrist: 25.11.2026
-
-## [1503861 – Manager/in (m/w/d) Digitalisierungs- und Entwicklungsstrategie](https://www.interamt.de/koop/app/stelle?id=1503861)
-
-- Arbeitgeber: Kommunalbetrieb Krefeld AöR
-- Besoldung: –
-- Entgelt: TVöD-VKA E 12
-- Ort: 47798 Krefeld
-- Entfernung: 65 km
-- Dienstort: Hybrid
-- Eingestellt: 29.10.2026
-- Bewerbungsfrist: 15.11.2026
 

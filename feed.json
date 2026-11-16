@@ -12,11 +12,39 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-15T12:59:11.739Z",
-  "source_results": 87,
+  "generated_at": "2026-11-16T14:02:18.643Z",
+  "source_results": 80,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1512815",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512815",
+      "employer": "Bundesamt für Soziale Sicherung",
+      "title": "IT-Referent/-in (w/ m/ d) für IT-Client und Service Management",
+      "grade": "A14",
+      "pay": "TVöD-Bund E 14",
+      "location": "53113 Bonn",
+      "distance": "93 km",
+      "workplace": "Vor Ort",
+      "posted": "16.11.2026",
+      "deadline": "06.12.2026",
+      "row_text": "1512815 Stellenausschreibung öffnen | Bundesamt für Soziale Sicherung | IT-Referent/-in (w/ m/ d) für IT-Client und Service Management | A14 | TVöD-Bund E 14 | 53113 Bonn | 93 km | Vor Ort | 16.11.2026 | 06.12.2026"
+    },
+    {
+      "id": "1512676",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512676",
+      "employer": "ITK Rheinland",
+      "title": "IT-Administrator/-in Citrix (m/w/d)",
+      "grade": "",
+      "pay": "TVöD-VKA E 9a - TVöD-VKA E 10",
+      "location": "41460 Neuss",
+      "distance": "64 km",
+      "workplace": "Hybrid",
+      "posted": "16.11.2026",
+      "deadline": "16.12.2026",
+      "row_text": "1512676 Stellenausschreibung öffnen | ITK Rheinland | IT-Administrator/-in Citrix (m/w/d) |  | TVöD-VKA E 9a - TVöD-VKA E 10 | 41460 Neuss | 64 km | Hybrid | 16.11.2026 | 16.12.2026"
+    },
     {
       "id": "1512453",
       "url": "https://www.interamt.de/koop/app/stelle?id=1512453",
@@ -508,20 +536,6 @@
       "row_text": "1507742 Stellenausschreibung öffnen | Klingenstadt Solingen | Projekt- und Produktmanagement (Schuldigitalisierung) solingen.digital | A12 | TVöD-VKA E 12 | 42651 Solingen | 47 km | Vor Ort | 30.10.2026 | 27.11.2026"
     },
     {
-      "id": "1507331",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1507331",
-      "employer": "Kreis Wesel",
-      "title": "Projektleitung (m/w/d) Dokumentenmanagement",
-      "grade": "",
-      "pay": "TVöD-VKA E 11",
-      "location": "46483 Wesel",
-      "distance": "62 km",
-      "workplace": "Hybrid",
-      "posted": "29.10.2026",
-      "deadline": "18.11.2026",
-      "row_text": "1507331 Stellenausschreibung öffnen | Kreis Wesel | Projektleitung (m/w/d) Dokumentenmanagement |  | TVöD-VKA E 11 | 46483 Wesel | 62 km | Hybrid | 29.10.2026 | 18.11.2026"
-    },
-    {
       "id": "1507172",
       "url": "https://www.interamt.de/koop/app/stelle?id=1507172",
       "employer": "Hochschule Düsseldorf",
@@ -562,20 +576,6 @@
       "posted": "29.10.2026",
       "deadline": "25.11.2026",
       "row_text": "1507140 Stellenausschreibung öffnen | Bundesamt für Justiz | Softwarearchitektin bzw. Softwarearchitekt (m/w/d) | A9g - A12 | TVöD-Bund E 12 | 53113 Bonn | 93 km | Hybrid | 29.10.2026 | 25.11.2026"
-    },
-    {
-      "id": "1503861",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1503861",
-      "employer": "Kommunalbetrieb Krefeld AöR",
-      "title": "Manager/in (m/w/d) Digitalisierungs- und Entwicklungsstrategie",
-      "grade": "",
-      "pay": "TVöD-VKA E 12",
-      "location": "47798 Krefeld",
-      "distance": "65 km",
-      "workplace": "Hybrid",
-      "posted": "29.10.2026",
-      "deadline": "15.11.2026",
-      "row_text": "1503861 Stellenausschreibung öffnen | Kommunalbetrieb Krefeld AöR | Manager/in (m/w/d) Digitalisierungs- und Entwicklungsstrategie |  | TVöD-VKA E 12 | 47798 Krefeld | 65 km | Hybrid | 29.10.2026 | 15.11.2026"
     }
   ]
 }
