@@ -5,9 +5,24 @@
     <link>https://chrisbgp.github.io/jobFeed/</link>
     <description>IT-Stellen für Berufstätige im öffentlichen Dienst im Umkreis von 100 km Luftlinie um Dortmund, Deutschland. Bis zu 40 neueste Treffer. Quelle: INTERAMT.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 16 Nov 2026 14:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:56:27 GMT</lastBuildDate>
     <ttl>1440</ttl>
     <atom:link href="https://chrisbgp.github.io/jobFeed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mitarbeiter*in Application Support (w/m/d) – 53117 Bonn</title>
+      <link>https://www.interamt.de/koop/app/stelle?id=1512703</link>
+      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1512703</guid>
+      <description>Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht&lt;br /&gt;
+Ort: 53117 Bonn&lt;br /&gt;
+Entfernung: 91 km&lt;br /&gt;
+Dienstort: Hybrid&lt;br /&gt;
+Besoldung: –&lt;br /&gt;
+Entgelt: TVöD-Bund E 8&lt;br /&gt;
+Eingestellt: 17.11.2026&lt;br /&gt;
+Bewerbungsfrist: 08.12.2026</description>
+      <category>IT und Telekommunikation</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>IT-Referent/-in (w/ m/ d) für IT-Client und Service Management – 53113 Bonn</title>
       <link>https://www.interamt.de/koop/app/stelle?id=1512815</link>
@@ -15,7 +30,7 @@
       <description>Arbeitgeber: Bundesamt für Soziale Sicherung&lt;br /&gt;
 Ort: 53113 Bonn&lt;br /&gt;
 Entfernung: 93 km&lt;br /&gt;
-Dienstort: Vor Ort&lt;br /&gt;
+Dienstort: Hybrid&lt;br /&gt;
 Besoldung: A14&lt;br /&gt;
 Entgelt: TVöD-Bund E 14&lt;br /&gt;
 Eingestellt: 16.11.2026&lt;br /&gt;
@@ -562,21 +577,6 @@ Eingestellt: 30.10.2026&lt;br /&gt;
 Bewerbungsfrist: 27.11.2026</description>
       <category>IT und Telekommunikation</category>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netzwerk- und Kapazitätsmanager*in (w/m/d) – 40476 Düsseldorf</title>
-      <link>https://www.interamt.de/koop/app/stelle?id=1507172</link>
-      <guid isPermaLink="true">https://www.interamt.de/koop/app/stelle?id=1507172</guid>
-      <description>Arbeitgeber: Hochschule Düsseldorf&lt;br /&gt;
-Ort: 40476 Düsseldorf&lt;br /&gt;
-Entfernung: 56 km&lt;br /&gt;
-Dienstort: Hybrid&lt;br /&gt;
-Besoldung: –&lt;br /&gt;
-Entgelt: TV-L E 9b&lt;br /&gt;
-Eingestellt: 29.10.2026&lt;br /&gt;
-Bewerbungsfrist: 18.11.2026</description>
-      <category>IT und Telekommunikation</category>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Netzwerkarchitekt*in (w/m/d) für Campus-Netzwerke – 40476 Düsseldorf</title>

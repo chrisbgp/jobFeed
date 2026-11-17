@@ -1,12 +1,23 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-16T14:02:18.643Z
+Letzte Aktualisierung: 2026-11-17T14:56:27.923Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 80 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 75 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1512703 – Mitarbeiter\*in Application Support (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1512703)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: –
+- Entgelt: TVöD-Bund E 8
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 17.11.2026
+- Bewerbungsfrist: 08.12.2026
 
 ## [1512815 – IT-Referent/-in (w/ m/ d) für IT-Client und Service Management](https://www.interamt.de/koop/app/stelle?id=1512815)
 
@@ -15,7 +26,7 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Entgelt: TVöD-Bund E 14
 - Ort: 53113 Bonn
 - Entfernung: 93 km
-- Dienstort: Vor Ort
+- Dienstort: Hybrid
 - Eingestellt: 16.11.2026
 - Bewerbungsfrist: 06.12.2026
 
@@ -414,17 +425,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Vor Ort
 - Eingestellt: 30.10.2026
 - Bewerbungsfrist: 27.11.2026
-
-## [1507172 – Netzwerk- und Kapazitätsmanager\*in (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1507172)
-
-- Arbeitgeber: Hochschule Düsseldorf
-- Besoldung: –
-- Entgelt: TV-L E 9b
-- Ort: 40476 Düsseldorf
-- Entfernung: 56 km
-- Dienstort: Hybrid
-- Eingestellt: 29.10.2026
-- Bewerbungsfrist: 18.11.2026
 
 ## [1507170 – Netzwerkarchitekt\*in (w/m/d) für Campus-Netzwerke](https://www.interamt.de/koop/app/stelle?id=1507170)
 

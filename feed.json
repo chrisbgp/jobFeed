@@ -12,11 +12,25 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-16T14:02:18.643Z",
-  "source_results": 80,
+  "generated_at": "2026-11-17T14:56:27.923Z",
+  "source_results": 75,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1512703",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512703",
+      "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+      "title": "Mitarbeiter*in Application Support (w/m/d)",
+      "grade": "",
+      "pay": "TVöD-Bund E 8",
+      "location": "53117 Bonn",
+      "distance": "91 km",
+      "workplace": "Hybrid",
+      "posted": "17.11.2026",
+      "deadline": "08.12.2026",
+      "row_text": "1512703 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Mitarbeiter*in Application Support (w/m/d) |  | TVöD-Bund E 8 | 53117 Bonn | 91 km | Hybrid | 17.11.2026 | 08.12.2026"
+    },
     {
       "id": "1512815",
       "url": "https://www.interamt.de/koop/app/stelle?id=1512815",
@@ -26,10 +40,10 @@
       "pay": "TVöD-Bund E 14",
       "location": "53113 Bonn",
       "distance": "93 km",
-      "workplace": "Vor Ort",
+      "workplace": "Hybrid",
       "posted": "16.11.2026",
       "deadline": "06.12.2026",
-      "row_text": "1512815 Stellenausschreibung öffnen | Bundesamt für Soziale Sicherung | IT-Referent/-in (w/ m/ d) für IT-Client und Service Management | A14 | TVöD-Bund E 14 | 53113 Bonn | 93 km | Vor Ort | 16.11.2026 | 06.12.2026"
+      "row_text": "1512815 Stellenausschreibung öffnen | Bundesamt für Soziale Sicherung | IT-Referent/-in (w/ m/ d) für IT-Client und Service Management | A14 | TVöD-Bund E 14 | 53113 Bonn | 93 km | Hybrid | 16.11.2026 | 06.12.2026"
     },
     {
       "id": "1512676",
@@ -534,20 +548,6 @@
       "posted": "30.10.2026",
       "deadline": "27.11.2026",
       "row_text": "1507742 Stellenausschreibung öffnen | Klingenstadt Solingen | Projekt- und Produktmanagement (Schuldigitalisierung) solingen.digital | A12 | TVöD-VKA E 12 | 42651 Solingen | 47 km | Vor Ort | 30.10.2026 | 27.11.2026"
-    },
-    {
-      "id": "1507172",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1507172",
-      "employer": "Hochschule Düsseldorf",
-      "title": "Netzwerk- und Kapazitätsmanager*in (w/m/d)",
-      "grade": "",
-      "pay": "TV-L E 9b",
-      "location": "40476 Düsseldorf",
-      "distance": "56 km",
-      "workplace": "Hybrid",
-      "posted": "29.10.2026",
-      "deadline": "18.11.2026",
-      "row_text": "1507172 Stellenausschreibung öffnen | Hochschule Düsseldorf | Netzwerk- und Kapazitätsmanager*in (w/m/d) |  | TV-L E 9b | 40476 Düsseldorf | 56 km | Hybrid | 29.10.2026 | 18.11.2026"
     },
     {
       "id": "1507170",
