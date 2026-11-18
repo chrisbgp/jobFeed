@@ -1,12 +1,56 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-17T14:56:27.923Z
+Letzte Aktualisierung: 2026-11-18T14:36:36.754Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
 Angezeigt: 40 von 75 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1513624 – Referentin/Referent (w/m/d) im Referat D 15 eID-Lösungen für die digitale Verwaltung](https://www.interamt.de/koop/app/stelle?id=1513624)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: A14
+- Entgelt: TVöD-Bund E 14
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 18.11.2026
+- Bewerbungsfrist: 15.12.2026
+
+## [1513533 – Sachbearbeiterin/Sachbearbeiter (m/w/d) IT-Systembetreuung/User Help Desk](https://www.interamt.de/koop/app/stelle?id=1513533)
+
+- Arbeitgeber: Stadt Gummersbach
+- Besoldung: –
+- Entgelt: TVöD-VKA E 9b
+- Ort: 51643 Gummersbach
+- Entfernung: 55 km
+- Dienstort: Hybrid
+- Eingestellt: 18.11.2026
+- Bewerbungsfrist: 16.12.2026
+
+## [1513458 – SAP Rechnungswesen Anwendungsbetreuer\*in (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1513458)
+
+- Arbeitgeber: Stadt Münster
+- Besoldung: A11
+- Entgelt: TVöD-VKA E 9a
+- Ort: 48153 Münster
+- Entfernung: 49 km
+- Dienstort: Hybrid
+- Eingestellt: 18.11.2026
+- Bewerbungsfrist: 06.12.2026
+
+## [1513350 – IT-Systemadministrator\*in Anwendungsbereitstellung (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1513350)
+
+- Arbeitgeber: Stadt Herne
+- Besoldung: –
+- Entgelt: TVöD-Bund E 10
+- Ort: 44623 Herne
+- Entfernung: 17 km
+- Dienstort: Hybrid
+- Eingestellt: 17.11.2026
+- Bewerbungsfrist: 09.12.2026
 
 ## [1512703 – Mitarbeiter\*in Application Support (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1512703)
 
@@ -393,17 +437,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Eingestellt: 02.11.2026
 - Bewerbungsfrist: 25.11.2026
 
-## [1508231 – Sachbearbeiter/in IT-Technik (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1508231)
-
-- Arbeitgeber: Märkischer Kreis
-- Besoldung: –
-- Entgelt: TVöD-VKA E 10
-- Ort: 58509 Lüdenscheid
-- Entfernung: 35 km
-- Dienstort: Vor Ort
-- Eingestellt: 02.11.2026
-- Bewerbungsfrist: 17.11.2026
-
 ## [1508142 – Sachbearbeitung Intel-Officer-Sentinel (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1508142)
 
 - Arbeitgeber: Polizeipräsidium Recklinghausen
@@ -414,37 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Vor Ort
 - Eingestellt: 02.11.2026
 - Bewerbungsfrist: 29.11.2026
-
-## [1507742 – Projekt- und Produktmanagement (Schuldigitalisierung) solingen.digital](https://www.interamt.de/koop/app/stelle?id=1507742)
-
-- Arbeitgeber: Klingenstadt Solingen
-- Besoldung: A12
-- Entgelt: TVöD-VKA E 12
-- Ort: 42651 Solingen
-- Entfernung: 47 km
-- Dienstort: Vor Ort
-- Eingestellt: 30.10.2026
-- Bewerbungsfrist: 27.11.2026
-
-## [1507170 – Netzwerkarchitekt\*in (w/m/d) für Campus-Netzwerke](https://www.interamt.de/koop/app/stelle?id=1507170)
-
-- Arbeitgeber: Hochschule Düsseldorf
-- Besoldung: –
-- Entgelt: TV-L E 13
-- Ort: 40476 Düsseldorf
-- Entfernung: 56 km
-- Dienstort: Hybrid
-- Eingestellt: 29.10.2026
-- Bewerbungsfrist: 18.11.2026
-
-## [1507140 – Softwarearchitektin bzw. Softwarearchitekt (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1507140)
-
-- Arbeitgeber: Bundesamt für Justiz
-- Besoldung: A9g - A12
-- Entgelt: TVöD-Bund E 12
-- Ort: 53113 Bonn
-- Entfernung: 93 km
-- Dienstort: Hybrid
-- Eingestellt: 29.10.2026
-- Bewerbungsfrist: 25.11.2026
 
