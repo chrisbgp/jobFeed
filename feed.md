@@ -1,12 +1,45 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-18T14:36:36.754Z
+Letzte Aktualisierung: 2026-11-19T14:48:11.496Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 75 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 73 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1514048 – Regierungsbeschäftigte/r (EG 8) im Bereich IT-Aufbau und Datenpflege (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1514048)
+
+- Arbeitgeber: Polizeipräsidium Düsseldorf
+- Besoldung: –
+- Entgelt: TV-L E 8
+- Ort: 40219 Düsseldorf
+- Entfernung: 60 km
+- Dienstort: Hybrid
+- Eingestellt: 19.11.2026
+- Bewerbungsfrist: 15.12.2026
+
+## [1513742 – Mitarbeiter\*in (w/m/d) für Projektkoordination und Systembetrieb im Bereich MVZ](https://www.interamt.de/koop/app/stelle?id=1513742)
+
+- Arbeitgeber: Universität zu Köln
+- Besoldung: –
+- Entgelt: TV-L E 10
+- Ort: 50931 Köln
+- Entfernung: 76 km
+- Dienstort: Hybrid
+- Eingestellt: 19.11.2026
+- Bewerbungsfrist: 03.12.2026
+
+## [1512694 – KI-Consultant (w/m/d) im Projekt KISPER](https://www.interamt.de/koop/app/stelle?id=1512694)
+
+- Arbeitgeber: Landesamt für zentrale polizeiliche Dienste NRW
+- Besoldung: –
+- Entgelt: TV-L E 13
+- Ort: 47059 Duisburg
+- Entfernung: 51 km
+- Dienstort: Hybrid
+- Eingestellt: 19.11.2026
+- Bewerbungsfrist: 16.12.2026
 
 ## [1513624 – Referentin/Referent (w/m/d) im Referat D 15 eID-Lösungen für die digitale Verwaltung](https://www.interamt.de/koop/app/stelle?id=1513624)
 
@@ -404,17 +437,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Eingestellt: 03.11.2026
 - Bewerbungsfrist: 24.11.2026
 
-## [1508722 – IT-Anwendungsmanagerin / IT-Anwendungsmanager Microsoft 365 (m/w/d) - Hauptabteilung IT](https://www.interamt.de/koop/app/stelle?id=1508722)
-
-- Arbeitgeber: Berufsgenossenschaft Handel und Warenlogistik
-- Besoldung: –
-- Entgelt: BG-AT E9a
-- Ort: 53129 Bonn
-- Entfernung: 94 km
-- Dienstort: Vor Ort
-- Eingestellt: 03.11.2026
-- Bewerbungsfrist: 01.12.2026
-
 ## [1507735 – Fachkraft IT-Service-Desk (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1507735)
 
 - Arbeitgeber: Bezirksregierung Düsseldorf
@@ -425,26 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 03.11.2026
 - Bewerbungsfrist: 24.11.2026
-
-## [1508444 – IT-Systemkauffrau / IT-Systemkaufmann (m/w/d) für den Bereich Hard- und Software Einkauf](https://www.interamt.de/koop/app/stelle?id=1508444)
-
-- Arbeitgeber: Kommunales Rechenzentrum Niederrhein
-- Besoldung: –
-- Entgelt: TVöD-VKA E 10
-- Ort: 47475 Kamp-Lintfort
-- Entfernung: 65 km
-- Dienstort: Vor Ort
-- Eingestellt: 02.11.2026
-- Bewerbungsfrist: 25.11.2026
-
-## [1508142 – Sachbearbeitung Intel-Officer-Sentinel (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1508142)
-
-- Arbeitgeber: Polizeipräsidium Recklinghausen
-- Besoldung: –
-- Entgelt: TV-L E 11
-- Ort: 45657 Recklinghausen
-- Entfernung: 22 km
-- Dienstort: Vor Ort
-- Eingestellt: 02.11.2026
-- Bewerbungsfrist: 29.11.2026
 

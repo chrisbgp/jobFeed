@@ -12,11 +12,53 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-18T14:36:36.754Z",
-  "source_results": 75,
+  "generated_at": "2026-11-19T14:48:11.496Z",
+  "source_results": 73,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1514048",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1514048",
+      "employer": "Polizeipräsidium Düsseldorf",
+      "title": "Regierungsbeschäftigte/r (EG 8) im Bereich IT-Aufbau und Datenpflege (w/m/d)",
+      "grade": "",
+      "pay": "TV-L E 8",
+      "location": "40219 Düsseldorf",
+      "distance": "60 km",
+      "workplace": "Hybrid",
+      "posted": "19.11.2026",
+      "deadline": "15.12.2026",
+      "row_text": "1514048 Stellenausschreibung öffnen | Polizeipräsidium Düsseldorf | Regierungsbeschäftigte/r (EG 8) im Bereich IT-Aufbau und Datenpflege (w/m/d) |  | TV-L E 8 | 40219 Düsseldorf | 60 km | Hybrid | 19.11.2026 | 15.12.2026"
+    },
+    {
+      "id": "1513742",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1513742",
+      "employer": "Universität zu Köln",
+      "title": "Mitarbeiter*in (w/m/d) für Projektkoordination und Systembetrieb im Bereich MVZ",
+      "grade": "",
+      "pay": "TV-L E 10",
+      "location": "50931 Köln",
+      "distance": "76 km",
+      "workplace": "Hybrid",
+      "posted": "19.11.2026",
+      "deadline": "03.12.2026",
+      "row_text": "1513742 Stellenausschreibung öffnen | Universität zu Köln | Mitarbeiter*in (w/m/d) für Projektkoordination und Systembetrieb im Bereich MVZ |  | TV-L E 10 | 50931 Köln | 76 km | Hybrid | 19.11.2026 | 03.12.2026"
+    },
+    {
+      "id": "1512694",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512694",
+      "employer": "Landesamt für zentrale polizeiliche Dienste NRW",
+      "title": "KI-Consultant (w/m/d) im Projekt KISPER",
+      "grade": "",
+      "pay": "TV-L E 13",
+      "location": "47059 Duisburg",
+      "distance": "51 km",
+      "workplace": "Hybrid",
+      "posted": "19.11.2026",
+      "deadline": "16.12.2026",
+      "row_text": "1512694 Stellenausschreibung öffnen | Landesamt für zentrale polizeiliche Dienste NRW | KI-Consultant (w/m/d) im Projekt KISPER |  | TV-L E 13 | 47059 Duisburg | 51 km | Hybrid | 19.11.2026 | 16.12.2026"
+    },
     {
       "id": "1513624",
       "url": "https://www.interamt.de/koop/app/stelle?id=1513624",
@@ -522,20 +564,6 @@
       "row_text": "1508825 Stellenausschreibung öffnen | Fernuniversität in Hagen | Software-Entwickler für Lernsysteme / Moodle (w/m/d) |  | TV-L E 11 - TV-L E 13 | 58097 Hagen | 16 km | Hybrid | 03.11.2026 | 24.11.2026"
     },
     {
-      "id": "1508722",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1508722",
-      "employer": "Berufsgenossenschaft Handel und Warenlogistik",
-      "title": "IT-Anwendungsmanagerin / IT-Anwendungsmanager Microsoft 365 (m/w/d) - Hauptabteilung IT",
-      "grade": "",
-      "pay": "BG-AT E9a",
-      "location": "53129 Bonn",
-      "distance": "94 km",
-      "workplace": "Vor Ort",
-      "posted": "03.11.2026",
-      "deadline": "01.12.2026",
-      "row_text": "1508722 Stellenausschreibung öffnen | Berufsgenossenschaft Handel und Warenlogistik | IT-Anwendungsmanagerin / IT-Anwendungsmanager Microsoft 365 (m/w/d) - Hauptabteilung IT |  | BG-AT E9a | 53129 Bonn | 94 km | Vor Ort | 03.11.2026 | 01.12.2026"
-    },
-    {
       "id": "1507735",
       "url": "https://www.interamt.de/koop/app/stelle?id=1507735",
       "employer": "Bezirksregierung Düsseldorf",
@@ -548,34 +576,6 @@
       "posted": "03.11.2026",
       "deadline": "24.11.2026",
       "row_text": "1507735 Stellenausschreibung öffnen | Bezirksregierung Düsseldorf | Fachkraft IT-Service-Desk (m/w/d) |  | TV-L E 8 | 40474 Düsseldorf | 57 km | Hybrid | 03.11.2026 | 24.11.2026"
-    },
-    {
-      "id": "1508444",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1508444",
-      "employer": "Kommunales Rechenzentrum Niederrhein",
-      "title": "IT-Systemkauffrau / IT-Systemkaufmann (m/w/d) für den Bereich Hard- und Software Einkauf",
-      "grade": "",
-      "pay": "TVöD-VKA E 10",
-      "location": "47475 Kamp-Lintfort",
-      "distance": "65 km",
-      "workplace": "Vor Ort",
-      "posted": "02.11.2026",
-      "deadline": "25.11.2026",
-      "row_text": "1508444 Stellenausschreibung öffnen | Kommunales Rechenzentrum Niederrhein | IT-Systemkauffrau / IT-Systemkaufmann (m/w/d) für den Bereich Hard- und Software Einkauf |  | TVöD-VKA E 10 | 47475 Kamp-Lintfort | 65 km | Vor Ort | 02.11.2026 | 25.11.2026"
-    },
-    {
-      "id": "1508142",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1508142",
-      "employer": "Polizeipräsidium Recklinghausen",
-      "title": "Sachbearbeitung Intel-Officer-Sentinel (m/w/d)",
-      "grade": "",
-      "pay": "TV-L E 11",
-      "location": "45657 Recklinghausen",
-      "distance": "22 km",
-      "workplace": "Vor Ort",
-      "posted": "02.11.2026",
-      "deadline": "29.11.2026",
-      "row_text": "1508142 Stellenausschreibung öffnen | Polizeipräsidium Recklinghausen | Sachbearbeitung Intel-Officer-Sentinel (m/w/d) |  | TV-L E 11 | 45657 Recklinghausen | 22 km | Vor Ort | 02.11.2026 | 29.11.2026"
     }
   ]
 }
