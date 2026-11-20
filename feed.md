@@ -1,12 +1,67 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-19T14:48:11.496Z
+Letzte Aktualisierung: 2026-11-20T14:25:18.022Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 73 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 77 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1514829 – Koordinator\*in IT für den Trainingsbereich (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1514829)
+
+- Arbeitgeber: Essener Arbeit-Beschäftigungsgesellschaft mbH
+- Besoldung: –
+- Entgelt: 3500 - 4000
+- Ort: 45356 Essen
+- Entfernung: 36 km
+- Dienstort: Hybrid
+- Eingestellt: 20.11.2026
+- Bewerbungsfrist: 04.12.2026
+
+## [1514503 – Netzwerkarchitekt\*in (w/m/d) für Campus-Netzwerke](https://www.interamt.de/koop/app/stelle?id=1514503)
+
+- Arbeitgeber: Hochschule Düsseldorf
+- Besoldung: –
+- Entgelt: TV-L E 13
+- Ort: 40476 Düsseldorf
+- Entfernung: 56 km
+- Dienstort: Hybrid
+- Eingestellt: 20.11.2026
+- Bewerbungsfrist: 16.12.2026
+
+## [1513939 – Softwaretesterin/Softwaretester (w/m/d) in Duisburg](https://www.interamt.de/koop/app/stelle?id=1513939)
+
+- Arbeitgeber: Landesamt für zentrale polizeiliche Dienste NRW
+- Besoldung: –
+- Entgelt: TV-L E 11
+- Ort: 47059 Duisburg
+- Entfernung: 51 km
+- Dienstort: Hybrid
+- Eingestellt: 20.11.2026
+- Bewerbungsfrist: 18.12.2026
+
+## [1512640 – IT-Systemverantwortliche/r (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1512640)
+
+- Arbeitgeber: Stadt Emmerich am Rhein
+- Besoldung: –
+- Entgelt: TVöD-VKA E 10
+- Ort: 46446 Emmerich am Rhein
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 20.11.2026
+- Bewerbungsfrist: 11.12.2026
+
+## [1511717 – Projektleiterin / Projektleiter my.NRW (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1511717)
+
+- Arbeitgeber: Landesbetrieb Information und Technik NRW
+- Besoldung: –
+- Entgelt: TV-L E 15
+- Ort: 40472 Düsseldorf
+- Entfernung: 55 km
+- Dienstort: Hybrid
+- Eingestellt: 20.11.2026
+- Bewerbungsfrist: 31.12.2026
 
 ## [1514048 – Regierungsbeschäftigte/r (EG 8) im Bereich IT-Aufbau und Datenpflege (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1514048)
 
@@ -392,59 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 05.11.2026
 - Bewerbungsfrist: 03.12.2026
-
-## [1509323 – Fachinformatiker/in für unsere IT (w/m/d) in Vollzeit oder Teilzeit](https://www.interamt.de/koop/app/stelle?id=1509323)
-
-- Arbeitgeber: Stadt Hemer
-- Besoldung: –
-- Entgelt: TVöD-VKA E 10
-- Ort: 58675 Hemer
-- Entfernung: 26 km
-- Dienstort: Hybrid
-- Eingestellt: 04.11.2026
-- Bewerbungsfrist: 29.11.2026
-
-## [1509165 – Sachgebietsleitung System- und Netzwerktechnik (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1509165)
-
-- Arbeitgeber: Bundesanstalt Technisches Hilfswerk
-- Besoldung: A12
-- Entgelt: TVöD-Bund E 12
-- Ort: 53127 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 04.11.2026
-- Bewerbungsfrist: 02.12.2026
-
-## [1509124 – IT-Projektmanager (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1509124)
-
-- Arbeitgeber: Kreis Paderborn
-- Besoldung: –
-- Entgelt: TVöD-V E 11
-- Ort: 33102 Paderborn
-- Entfernung: 92 km
-- Dienstort: Hybrid
-- Eingestellt: 04.11.2026
-- Bewerbungsfrist: 28.11.2026
-
-## [1508825 – Software-Entwickler für Lernsysteme / Moodle (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1508825)
-
-- Arbeitgeber: Fernuniversität in Hagen
-- Besoldung: –
-- Entgelt: TV-L E 11 - TV-L E 13
-- Ort: 58097 Hagen
-- Entfernung: 16 km
-- Dienstort: Hybrid
-- Eingestellt: 03.11.2026
-- Bewerbungsfrist: 24.11.2026
-
-## [1507735 – Fachkraft IT-Service-Desk (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1507735)
-
-- Arbeitgeber: Bezirksregierung Düsseldorf
-- Besoldung: –
-- Entgelt: TV-L E 8
-- Ort: 40474 Düsseldorf
-- Entfernung: 57 km
-- Dienstort: Hybrid
-- Eingestellt: 03.11.2026
-- Bewerbungsfrist: 24.11.2026
 
