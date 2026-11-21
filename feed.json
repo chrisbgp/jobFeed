@@ -12,11 +12,25 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-20T14:25:18.022Z",
+  "generated_at": "2026-11-21T13:44:30.757Z",
   "source_results": 77,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1512978",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1512978",
+      "employer": "Landschaftsverband Westfalen-Lippe",
+      "title": "Personalentwickler/ Personalentwicklerin Schwerpunkt E-Learning (w/m/d)",
+      "grade": "",
+      "pay": "TVöD-VKA E 10",
+      "location": "48147 Münster",
+      "distance": "52 km",
+      "workplace": "Hybrid",
+      "posted": "21.11.2026",
+      "deadline": "07.12.2026",
+      "row_text": "1512978 Stellenausschreibung öffnen | Landschaftsverband Westfalen-Lippe | Personalentwickler/ Personalentwicklerin Schwerpunkt E-Learning (w/m/d) |  | TVöD-VKA E 10 | 48147 Münster | 52 km | Hybrid | 21.11.2026 | 07.12.2026"
+    },
     {
       "id": "1514829",
       "url": "https://www.interamt.de/koop/app/stelle?id=1514829",
@@ -534,20 +548,6 @@
       "posted": "05.11.2026",
       "deadline": "26.11.2026",
       "row_text": "1509785 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Softwarearchitekt*in (w/m/d) für Individuallösungen | A14 | TVöD-Bund E 13 | 53117 Bonn | 91 km | Hybrid | 05.11.2026 | 26.11.2026"
-    },
-    {
-      "id": "1509702",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1509702",
-      "employer": "Informationstechnikzentrum Bund",
-      "title": "(Junior) Anwendungsmanagerin / Anwendungsmanager (w/m/d) in der Personalverwaltung SAP HCM (Human Capital Management) -befristet",
-      "grade": "",
-      "pay": "TVöD-Bund E 10",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "05.11.2026",
-      "deadline": "26.11.2026",
-      "row_text": "1509702 Stellenausschreibung öffnen | Informationstechnikzentrum Bund | (Junior) Anwendungsmanagerin / Anwendungsmanager (w/m/d) in der Personalverwaltung SAP HCM (Human Capital Management) -befristet |  | TVöD-Bund E 10 | 53175 Bonn | 94 km | Hybrid | 05.11.2026 | 26.11.2026"
     },
     {
       "id": "1509660",

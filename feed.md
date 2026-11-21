@@ -1,12 +1,23 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-20T14:25:18.022Z
+Letzte Aktualisierung: 2026-11-21T13:44:30.757Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
 Angezeigt: 40 von 77 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1512978 – Personalentwickler/ Personalentwicklerin Schwerpunkt E-Learning (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1512978)
+
+- Arbeitgeber: Landschaftsverband Westfalen-Lippe
+- Besoldung: –
+- Entgelt: TVöD-VKA E 10
+- Ort: 48147 Münster
+- Entfernung: 52 km
+- Dienstort: Hybrid
+- Eingestellt: 21.11.2026
+- Bewerbungsfrist: 07.12.2026
 
 ## [1514829 – Koordinator\*in IT für den Trainingsbereich (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1514829)
 
@@ -411,17 +422,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Entgelt: TVöD-Bund E 13
 - Ort: 53117 Bonn
 - Entfernung: 91 km
-- Dienstort: Hybrid
-- Eingestellt: 05.11.2026
-- Bewerbungsfrist: 26.11.2026
-
-## [1509702 – (Junior) Anwendungsmanagerin / Anwendungsmanager (w/m/d) in der Personalverwaltung SAP HCM (Human Capital Management) -befristet](https://www.interamt.de/koop/app/stelle?id=1509702)
-
-- Arbeitgeber: Informationstechnikzentrum Bund
-- Besoldung: –
-- Entgelt: TVöD-Bund E 10
-- Ort: 53175 Bonn
-- Entfernung: 94 km
 - Dienstort: Hybrid
 - Eingestellt: 05.11.2026
 - Bewerbungsfrist: 26.11.2026
