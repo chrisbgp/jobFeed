@@ -12,11 +12,53 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-22T13:38:53.778Z",
-  "source_results": 77,
+  "generated_at": "2026-11-23T16:34:25.355Z",
+  "source_results": 79,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1515197",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1515197",
+      "employer": "Gebäudemanagement der Stadt Wuppertal",
+      "title": "(Wirtschafts-)informatiker*in",
+      "grade": "",
+      "pay": "TVöD-VKA E 11",
+      "location": "42119 Wuppertal",
+      "distance": "37 km",
+      "workplace": "Hybrid",
+      "posted": "23.11.2026",
+      "deadline": "18.12.2026",
+      "row_text": "1515197 Stellenausschreibung öffnen | Gebäudemanagement der Stadt Wuppertal | (Wirtschafts-)informatiker*in |  | TVöD-VKA E 11 | 42119 Wuppertal | 37 km | Hybrid | 23.11.2026 | 18.12.2026"
+    },
+    {
+      "id": "1515053",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1515053",
+      "employer": "Hochschule für Musik und Tanz Köln",
+      "title": "Veranstaltungstechniker*in (m/w/d)",
+      "grade": "",
+      "pay": "TV-L E 8",
+      "location": "50668 Köln",
+      "distance": "73 km",
+      "workplace": "Vor Ort",
+      "posted": "23.11.2026",
+      "deadline": "17.12.2026",
+      "row_text": "1515053 Stellenausschreibung öffnen | Hochschule für Musik und Tanz Köln | Veranstaltungstechniker*in (m/w/d) |  | TV-L E 8 | 50668 Köln | 73 km | Vor Ort | 23.11.2026 | 17.12.2026"
+    },
+    {
+      "id": "1515042",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1515042",
+      "employer": "Stadt Ratingen",
+      "title": "Innovationsmanagement (m/w/d)",
+      "grade": "A12",
+      "pay": "TVöD-VKA E 11",
+      "location": "40878 Ratingen",
+      "distance": "50 km",
+      "workplace": "Hybrid",
+      "posted": "23.11.2026",
+      "deadline": "14.12.2026",
+      "row_text": "1515042 Stellenausschreibung öffnen | Stadt Ratingen | Innovationsmanagement (m/w/d) | A12 | TVöD-VKA E 11 | 40878 Ratingen | 50 km | Hybrid | 23.11.2026 | 14.12.2026"
+    },
     {
       "id": "1512978",
       "url": "https://www.interamt.de/koop/app/stelle?id=1512978",
@@ -480,20 +522,6 @@
       "row_text": "1510284 Stellenausschreibung öffnen | Universität Duisburg-Essen | IT-Systemadministrator*in (Operation Manager*in) (w/m/d) für das hpcFachCluster.nrw@UARuhr |  | TV-L E 10 - TV-L E 13 | 45141 Essen | 32 km | Hybrid | 08.11.2026 | 06.12.2026"
     },
     {
-      "id": "1510198",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1510198",
-      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
-      "title": "24/7 Front Office im Nationalen IT-Lagezentrum (w/m/d)",
-      "grade": "A11",
-      "pay": "TVöD-Bund E 11",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "06.11.2026",
-      "deadline": "22.11.2026",
-      "row_text": "1510198 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | 24/7 Front Office im Nationalen IT-Lagezentrum (w/m/d) | A11 | TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 06.11.2026 | 22.11.2026"
-    },
-    {
       "id": "1510191",
       "url": "https://www.interamt.de/koop/app/stelle?id=1510191",
       "employer": "Landesbetrieb Information und Technik NRW",
@@ -522,20 +550,6 @@
       "row_text": "1509958 Stellenausschreibung öffnen | Bundesanstalt Technisches Hilfswerk | Mitarbeiter/Mitarbeiterin IT-Anwendungsbetreuung (m/w/d) - bundesweit | A6m - A9 | TVöD-Bund E 6 - TVöD-Bund E 9b | 53127 Bonn | 94 km | Hybrid | 06.11.2026 | 04.12.2026"
     },
     {
-      "id": "1509803",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1509803",
-      "employer": "Landesbeauftragte für Datenschutz und Informationsfreiheit NRW",
-      "title": "Referent*in (m/w/d) Informatik bzw. vergleichbare Fachrichtung bis Besoldungsgruppe A 14 LBesO NRW oder vergleichbare Tarifbeschäftigte",
-      "grade": "A13h - A14",
-      "pay": "TV-L E 13 - TV-L E 14",
-      "location": "40213 Düsseldorf",
-      "distance": "60 km",
-      "workplace": "Hybrid",
-      "posted": "05.11.2026",
-      "deadline": "03.12.2026",
-      "row_text": "1509803 Stellenausschreibung öffnen | Landesbeauftragte für Datenschutz und Informationsfreiheit NRW | Referent*in (m/w/d) Informatik bzw. vergleichbare Fachrichtung bis Besoldungsgruppe A 14 LBesO NRW oder vergleichbare Tarifbeschäftigte | A13h - A14 | TV-L E 13 - TV-L E 14 | 40213 Düsseldorf | 60 km | Hybrid | 05.11.2026 | 03.12.2026"
-    },
-    {
       "id": "1509785",
       "url": "https://www.interamt.de/koop/app/stelle?id=1509785",
       "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
@@ -548,20 +562,6 @@
       "posted": "05.11.2026",
       "deadline": "26.11.2026",
       "row_text": "1509785 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Softwarearchitekt*in (w/m/d) für Individuallösungen | A14 | TVöD-Bund E 13 | 53117 Bonn | 91 km | Hybrid | 05.11.2026 | 26.11.2026"
-    },
-    {
-      "id": "1509660",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1509660",
-      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
-      "title": "Leitung (w/m/d) des Teams Daten und Analyse, Bedrohungs-Dashboard",
-      "grade": "A15",
-      "pay": "TVöD-Bund E 15",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "05.11.2026",
-      "deadline": "27.11.2026",
-      "row_text": "1509660 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Leitung (w/m/d) des Teams Daten und Analyse, Bedrohungs-Dashboard | A15 | TVöD-Bund E 15 | 53175 Bonn | 94 km | Hybrid | 05.11.2026 | 27.11.2026"
     },
     {
       "id": "1509481",

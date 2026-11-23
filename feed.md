@@ -1,12 +1,45 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-22T13:38:53.778Z
+Letzte Aktualisierung: 2026-11-23T16:34:25.355Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 77 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 79 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1515197 – (Wirtschafts-)informatiker\*in](https://www.interamt.de/koop/app/stelle?id=1515197)
+
+- Arbeitgeber: Gebäudemanagement der Stadt Wuppertal
+- Besoldung: –
+- Entgelt: TVöD-VKA E 11
+- Ort: 42119 Wuppertal
+- Entfernung: 37 km
+- Dienstort: Hybrid
+- Eingestellt: 23.11.2026
+- Bewerbungsfrist: 18.12.2026
+
+## [1515053 – Veranstaltungstechniker\*in (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1515053)
+
+- Arbeitgeber: Hochschule für Musik und Tanz Köln
+- Besoldung: –
+- Entgelt: TV-L E 8
+- Ort: 50668 Köln
+- Entfernung: 73 km
+- Dienstort: Vor Ort
+- Eingestellt: 23.11.2026
+- Bewerbungsfrist: 17.12.2026
+
+## [1515042 – Innovationsmanagement (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1515042)
+
+- Arbeitgeber: Stadt Ratingen
+- Besoldung: A12
+- Entgelt: TVöD-VKA E 11
+- Ort: 40878 Ratingen
+- Entfernung: 50 km
+- Dienstort: Hybrid
+- Eingestellt: 23.11.2026
+- Bewerbungsfrist: 14.12.2026
 
 ## [1512978 – Personalentwickler/ Personalentwicklerin Schwerpunkt E-Learning (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1512978)
 
@@ -371,17 +404,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Eingestellt: 08.11.2026
 - Bewerbungsfrist: 06.12.2026
 
-## [1510198 – 24/7 Front Office im Nationalen IT-Lagezentrum (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1510198)
-
-- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
-- Besoldung: A11
-- Entgelt: TVöD-Bund E 11
-- Ort: 53175 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 06.11.2026
-- Bewerbungsfrist: 22.11.2026
-
 ## [1510191 – Trainerin / Trainer (m/w/d) für SAP-Verfahren](https://www.interamt.de/koop/app/stelle?id=1510191)
 
 - Arbeitgeber: Landesbetrieb Information und Technik NRW
@@ -404,17 +426,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Eingestellt: 06.11.2026
 - Bewerbungsfrist: 04.12.2026
 
-## [1509803 – Referent\*in (m/w/d) Informatik bzw. vergleichbare Fachrichtung bis Besoldungsgruppe A 14 LBesO NRW oder vergleichbare Tarifbeschäftigte](https://www.interamt.de/koop/app/stelle?id=1509803)
-
-- Arbeitgeber: Landesbeauftragte für Datenschutz und Informationsfreiheit NRW
-- Besoldung: A13h - A14
-- Entgelt: TV-L E 13 - TV-L E 14
-- Ort: 40213 Düsseldorf
-- Entfernung: 60 km
-- Dienstort: Hybrid
-- Eingestellt: 05.11.2026
-- Bewerbungsfrist: 03.12.2026
-
 ## [1509785 – Softwarearchitekt\*in (w/m/d) für Individuallösungen](https://www.interamt.de/koop/app/stelle?id=1509785)
 
 - Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -425,17 +436,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 05.11.2026
 - Bewerbungsfrist: 26.11.2026
-
-## [1509660 – Leitung (w/m/d) des Teams Daten und Analyse, Bedrohungs-Dashboard](https://www.interamt.de/koop/app/stelle?id=1509660)
-
-- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
-- Besoldung: A15
-- Entgelt: TVöD-Bund E 15
-- Ort: 53175 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 05.11.2026
-- Bewerbungsfrist: 27.11.2026
 
 ## [1509481 – Teamleitung IT-Management (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1509481)
 
