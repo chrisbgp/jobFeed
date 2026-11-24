@@ -1,12 +1,23 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-23T16:34:25.355Z
+Letzte Aktualisierung: 2026-11-24T16:30:42.994Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
 Angezeigt: 40 von 79 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1515436 – IT Strategy Development Manager (f/m/d)](https://www.interamt.de/koop/app/stelle?id=1515436)
+
+- Arbeitgeber: Deutsches Zentrum für Neurodegenerative Erkrankungen e. V.
+- Besoldung: –
+- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
+- Ort: 53127 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 24.11.2026
+- Bewerbungsfrist: 15.12.2026
 
 ## [1515197 – (Wirtschafts-)informatiker\*in](https://www.interamt.de/koop/app/stelle?id=1515197)
 
@@ -425,17 +436,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 06.11.2026
 - Bewerbungsfrist: 04.12.2026
-
-## [1509785 – Softwarearchitekt\*in (w/m/d) für Individuallösungen](https://www.interamt.de/koop/app/stelle?id=1509785)
-
-- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
-- Besoldung: A14
-- Entgelt: TVöD-Bund E 13
-- Ort: 53117 Bonn
-- Entfernung: 91 km
-- Dienstort: Hybrid
-- Eingestellt: 05.11.2026
-- Bewerbungsfrist: 26.11.2026
 
 ## [1509481 – Teamleitung IT-Management (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1509481)
 

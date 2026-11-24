@@ -12,11 +12,25 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-23T16:34:25.355Z",
+  "generated_at": "2026-11-24T16:30:42.994Z",
   "source_results": 79,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1515436",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1515436",
+      "employer": "Deutsches Zentrum für Neurodegenerative Erkrankungen e. V.",
+      "title": "IT Strategy Development Manager (f/m/d)",
+      "grade": "",
+      "pay": "TVöD-Bund E 13 - TVöD-Bund E 14",
+      "location": "53127 Bonn",
+      "distance": "94 km",
+      "workplace": "Hybrid",
+      "posted": "24.11.2026",
+      "deadline": "15.12.2026",
+      "row_text": "1515436 Stellenausschreibung öffnen | Deutsches Zentrum für Neurodegenerative Erkrankungen e. V. | IT Strategy Development Manager (f/m/d) |  | TVöD-Bund E 13 - TVöD-Bund E 14 | 53127 Bonn | 94 km | Hybrid | 24.11.2026 | 15.12.2026"
+    },
     {
       "id": "1515197",
       "url": "https://www.interamt.de/koop/app/stelle?id=1515197",
@@ -548,20 +562,6 @@
       "posted": "06.11.2026",
       "deadline": "04.12.2026",
       "row_text": "1509958 Stellenausschreibung öffnen | Bundesanstalt Technisches Hilfswerk | Mitarbeiter/Mitarbeiterin IT-Anwendungsbetreuung (m/w/d) - bundesweit | A6m - A9 | TVöD-Bund E 6 - TVöD-Bund E 9b | 53127 Bonn | 94 km | Hybrid | 06.11.2026 | 04.12.2026"
-    },
-    {
-      "id": "1509785",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1509785",
-      "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
-      "title": "Softwarearchitekt*in (w/m/d) für Individuallösungen",
-      "grade": "A14",
-      "pay": "TVöD-Bund E 13",
-      "location": "53117 Bonn",
-      "distance": "91 km",
-      "workplace": "Hybrid",
-      "posted": "05.11.2026",
-      "deadline": "26.11.2026",
-      "row_text": "1509785 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Softwarearchitekt*in (w/m/d) für Individuallösungen | A14 | TVöD-Bund E 13 | 53117 Bonn | 91 km | Hybrid | 05.11.2026 | 26.11.2026"
     },
     {
       "id": "1509481",
