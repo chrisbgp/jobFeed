@@ -1,12 +1,56 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-24T16:30:42.994Z
+Letzte Aktualisierung: 2026-11-25T16:09:41.884Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 79 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 82 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1515856 – Sachbearbeiter/in (m/w/d) für die EDV](https://www.interamt.de/koop/app/stelle?id=1515856)
+
+- Arbeitgeber: Verbandsgemeinde Asbach
+- Besoldung: –
+- Entgelt: TVöD-VKA E 10
+- Ort: 53567 Asbach
+- Entfernung: 95 km
+- Dienstort: Hybrid
+- Eingestellt: 25.11.2026
+- Bewerbungsfrist: 31.12.2026
+
+## [1515765 – Teamleitung Sales & Business Development (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1515765)
+
+- Arbeitgeber: Stadt Münster
+- Besoldung: –
+- Entgelt: TVöD-VKA E 13
+- Ort: 48153 Münster
+- Entfernung: 49 km
+- Dienstort: Hybrid
+- Eingestellt: 25.11.2026
+- Bewerbungsfrist: 20.12.2026
+
+## [1515706 – Sachbearbeiterinnen / Sachbearbeiter (w/m/d) im Referat T 33 IT-Sicherheits- und IT-Servicemanagement](https://www.interamt.de/koop/app/stelle?id=1515706)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: –
+- Entgelt: TVöD-Bund E 12
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 25.11.2026
+- Bewerbungsfrist: 21.12.2026
+
+## [1514504 – Software Quality Engineer (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1514504)
+
+- Arbeitgeber: GKV-Spitzenverband - Deutsche Verbindungsstelle Krankenversicherung - Ausland
+- Besoldung: –
+- Entgelt: TVöD-Bund E 12 - TVöD-Bund E 13
+- Ort: 53177 Bonn
+- Entfernung: 97 km
+- Dienstort: Hybrid
+- Eingestellt: 25.11.2026
+- Bewerbungsfrist: 16.12.2026
 
 ## [1515436 – IT Strategy Development Manager (f/m/d)](https://www.interamt.de/koop/app/stelle?id=1515436)
 
@@ -403,48 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Vor Ort
 - Eingestellt: 09.11.2026
 - Bewerbungsfrist: 15.12.2026
-
-## [1510284 – IT-Systemadministrator\*in (Operation Manager\*in) (w/m/d) für das hpcFachCluster.nrw@UARuhr](https://www.interamt.de/koop/app/stelle?id=1510284)
-
-- Arbeitgeber: Universität Duisburg-Essen
-- Besoldung: –
-- Entgelt: TV-L E 10 - TV-L E 13
-- Ort: 45141 Essen
-- Entfernung: 32 km
-- Dienstort: Hybrid
-- Eingestellt: 08.11.2026
-- Bewerbungsfrist: 06.12.2026
-
-## [1510191 – Trainerin / Trainer (m/w/d) für SAP-Verfahren](https://www.interamt.de/koop/app/stelle?id=1510191)
-
-- Arbeitgeber: Landesbetrieb Information und Technik NRW
-- Besoldung: –
-- Entgelt: TV-L E 11
-- Ort: 40476 Düsseldorf
-- Entfernung: 56 km
-- Dienstort: Hybrid
-- Eingestellt: 06.11.2026
-- Bewerbungsfrist: 29.11.2026
-
-## [1509958 – Mitarbeiter/Mitarbeiterin IT-Anwendungsbetreuung (m/w/d) - bundesweit](https://www.interamt.de/koop/app/stelle?id=1509958)
-
-- Arbeitgeber: Bundesanstalt Technisches Hilfswerk
-- Besoldung: A6m - A9
-- Entgelt: TVöD-Bund E 6 - TVöD-Bund E 9b
-- Ort: 53127 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 06.11.2026
-- Bewerbungsfrist: 04.12.2026
-
-## [1509481 – Teamleitung IT-Management (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1509481)
-
-- Arbeitgeber: Stadt Herne
-- Besoldung: A13
-- Entgelt: TVöD-VKA E 13
-- Ort: 44623 Herne
-- Entfernung: 17 km
-- Dienstort: Hybrid
-- Eingestellt: 05.11.2026
-- Bewerbungsfrist: 03.12.2026
 
