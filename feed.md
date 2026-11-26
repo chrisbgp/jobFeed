@@ -1,12 +1,78 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-25T16:09:41.884Z
+Letzte Aktualisierung: 2026-11-26T15:50:28.742Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 82 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 86 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1516564 – Referentin/Referent (w/m/d) im Bereich Automotive Security](https://www.interamt.de/koop/app/stelle?id=1516564)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: –
+- Entgelt: TVöD-Bund E 13
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 26.11.2026
+- Bewerbungsfrist: 16.12.2026
+
+## [1516541 – IT-Großprojektmanagerinnen/ IT-Großprojektmanager (m/w/d) für den Bereich der Öffentlichen Sicherheit](https://www.interamt.de/koop/app/stelle?id=1516541)
+
+- Arbeitgeber: Bundesverwaltungsamt
+- Besoldung: –
+- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
+- Ort: 50829 Köln
+- Entfernung: 73 km
+- Dienstort: Hybrid
+- Eingestellt: 26.11.2026
+- Bewerbungsfrist: 17.12.2026
+
+## [1516348 – Referent/-in IT-Sicherheitsmanagement (w/m/d)](https://www.interamt.de/koop/app/stelle?id=1516348)
+
+- Arbeitgeber: Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
+- Besoldung: A13h - A14
+- Entgelt: Uni / Master
+- Ort: 53175 Bonn
+- Entfernung: 95 km
+- Dienstort: Hybrid
+- Eingestellt: 26.11.2026
+- Bewerbungsfrist: 24.12.2026
+
+## [1516346 – AI Engineer (w/m/d) für den Bereich Künstliche Intelligenz, Datenbanken und -analyse](https://www.interamt.de/koop/app/stelle?id=1516346)
+
+- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
+- Besoldung: A13h - A14
+- Entgelt: TVöD-Bund E 13
+- Ort: 53117 Bonn
+- Entfernung: 91 km
+- Dienstort: Hybrid
+- Eingestellt: 26.11.2026
+- Bewerbungsfrist: 17.12.2026
+
+## [1516335 – eine Referatsleiterin / einen Referatsleiter (w / m / d) - Bonn](https://www.interamt.de/koop/app/stelle?id=1516335)
+
+- Arbeitgeber: Bundesministerium für Gesundheit
+- Besoldung: A16
+- Entgelt: TVöD-Bund E 15Ü
+- Ort: 53123 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 26.11.2026
+- Bewerbungsfrist: 03.01.2027
+
+## [1513603 – Sachbearbeiterin / Sachbearbeiter (w/m/d) Digitale Forensik/Elektrotechnik](https://www.interamt.de/koop/app/stelle?id=1513603)
+
+- Arbeitgeber: Landeskriminalamt NRW
+- Besoldung: –
+- Entgelt: TV-L E 12
+- Ort: 40221 Düsseldorf
+- Entfernung: 59 km
+- Dienstort: Hybrid
+- Eingestellt: 26.11.2026
+- Bewerbungsfrist: 23.12.2026
 
 ## [1515856 – Sachbearbeiter/in (m/w/d) für die EDV](https://www.interamt.de/koop/app/stelle?id=1515856)
 
@@ -381,70 +447,4 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Dienstort: Hybrid
 - Eingestellt: 11.11.2026
 - Bewerbungsfrist: 03.12.2026
-
-## [1510867 – Senior IT-Expert\*innen (w/m/d) im Bereich Cybersicherheit](https://www.interamt.de/koop/app/stelle?id=1510867)
-
-- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
-- Besoldung: A14
-- Entgelt: TVöD-Bund E 14
-- Ort: 53117 Bonn
-- Entfernung: 91 km
-- Dienstort: Hybrid
-- Eingestellt: 10.11.2026
-- Bewerbungsfrist: 30.11.2026
-
-## [1510782 – Test- und Anforderungsmanager\*in (w/m/d) für Individuallösungen](https://www.interamt.de/koop/app/stelle?id=1510782)
-
-- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
-- Besoldung: A14
-- Entgelt: TVöD-Bund E 13
-- Ort: 53117 Bonn
-- Entfernung: 91 km
-- Dienstort: Hybrid
-- Eingestellt: 10.11.2026
-- Bewerbungsfrist: 01.12.2026
-
-## [1510354 – Skript- und Webentwicklung (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1510354)
-
-- Arbeitgeber: Stadt Ratingen
-- Besoldung: –
-- Entgelt: TVöD-VKA E 11
-- Ort: 40878 Ratingen
-- Entfernung: 50 km
-- Dienstort: Hybrid
-- Eingestellt: 09.11.2026
-- Bewerbungsfrist: 30.11.2026
-
-## [1510186 – Mehrere Referentinnen/Referenten (w/m/d) im Bereich Hoheitliches Identitätsmanagement](https://www.interamt.de/koop/app/stelle?id=1510186)
-
-- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
-- Besoldung: –
-- Entgelt: TVöD-Bund E 13
-- Ort: 53175 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 09.11.2026
-- Bewerbungsfrist: 06.12.2026
-
-## [1509295 – Sachbearbeiter/in (m/w/d): IT-Forensik/Datenanalyse (m/w/d) für das Referat 615 (IT- und Cyberkompetenzzentrum im Verfassungsschutz)](https://www.interamt.de/koop/app/stelle?id=1509295)
-
-- Arbeitgeber: Ministerium des Innern des Landes NRW
-- Besoldung: A9g - A11
-- Entgelt: TV-L E 9b - TV-L E 12
-- Ort: 40217 Düsseldorf
-- Entfernung: 59 km
-- Dienstort: Hybrid
-- Eingestellt: 09.11.2026
-- Bewerbungsfrist: 15.12.2026
-
-## [1509270 – IT-Spezialist/in (m/w/d) für IT-Servicemanagement für das Referat 615 (IT- und Cyberkompetenzzentrum im Verfassungsschutz)](https://www.interamt.de/koop/app/stelle?id=1509270)
-
-- Arbeitgeber: Ministerium des Innern des Landes NRW
-- Besoldung: A9g - A11
-- Entgelt: TV-L E 9b - TV-L E 11
-- Ort: 40217 Düsseldorf
-- Entfernung: 59 km
-- Dienstort: Vor Ort
-- Eingestellt: 09.11.2026
-- Bewerbungsfrist: 15.12.2026
 
