@@ -12,11 +12,67 @@
     ],
     "max_results": 40
   },
-  "generated_at": "2026-11-26T15:50:28.742Z",
-  "source_results": 86,
+  "generated_at": "2026-11-27T15:39:06.759Z",
+  "source_results": 87,
   "limited": true,
   "visible_results": 40,
   "jobs": [
+    {
+      "id": "1516827",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1516827",
+      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
+      "title": "Sachbearbeiterinnen / Sachbearbeiter (w/m/d) im Referat T 33",
+      "grade": "A12",
+      "pay": "TVöD-Bund E 12",
+      "location": "53175 Bonn",
+      "distance": "94 km",
+      "workplace": "Hybrid",
+      "posted": "27.11.2026",
+      "deadline": "17.12.2026",
+      "row_text": "1516827 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Sachbearbeiterinnen / Sachbearbeiter (w/m/d) im Referat T 33 | A12 | TVöD-Bund E 12 | 53175 Bonn | 94 km | Hybrid | 27.11.2026 | 17.12.2026"
+    },
+    {
+      "id": "1516736",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1516736",
+      "employer": "Hochschule für Polizei und öffentl. Verwaltung NRW",
+      "title": "Regierungsbeschäftigte / Regierungsbeschäftigter (m/w/d) für den Bereich Medientechnik im Dezernat 23.2",
+      "grade": "",
+      "pay": "TV-L E 10",
+      "location": "45886 Gelsenkirchen",
+      "distance": "24 km",
+      "workplace": "Hybrid",
+      "posted": "27.11.2026",
+      "deadline": "11.01.2027",
+      "row_text": "1516736 Stellenausschreibung öffnen | Hochschule für Polizei und öffentl. Verwaltung NRW | Regierungsbeschäftigte / Regierungsbeschäftigter (m/w/d) für den Bereich Medientechnik im Dezernat 23.2 |  | TV-L E 10 | 45886 Gelsenkirchen | 24 km | Hybrid | 27.11.2026 | 11.01.2027"
+    },
+    {
+      "id": "1516624",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1516624",
+      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
+      "title": "Referentin/Referent (w/m/d) im Referat W 15 \"KRITIS-Sektor Gesundheit und zentrale Nachweiseinreichung\" BSI-2026-137",
+      "grade": "A13h",
+      "pay": "TVöD-Bund E 13",
+      "location": "53175 Bonn",
+      "distance": "93 km",
+      "workplace": "Hybrid",
+      "posted": "27.11.2026",
+      "deadline": "14.12.2026",
+      "row_text": "1516624 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Referentin/Referent (w/m/d) im Referat W 15 \"KRITIS-Sektor Gesundheit und zentrale Nachweiseinreichung\" BSI-2026-137 | A13h | TVöD-Bund E 13 | 53175 Bonn | 93 km | Hybrid | 27.11.2026 | 14.12.2026"
+    },
+    {
+      "id": "1179842",
+      "url": "https://www.interamt.de/koop/app/stelle?id=1179842",
+      "employer": "Zweckverband KAAW",
+      "title": "Anwendungsbetreuer/in (m/w/d) für kommunale Fachverfahren",
+      "grade": "",
+      "pay": "TVöD-V E 9c - TVöD-V E 11",
+      "location": "49477 Ibbenbüren",
+      "distance": "87 km",
+      "workplace": "Hybrid",
+      "posted": "27.11.2026",
+      "deadline": "23.12.2026",
+      "row_text": "1179842 Stellenausschreibung öffnen | Zweckverband KAAW | Anwendungsbetreuer/in (m/w/d) für kommunale Fachverfahren |  | TVöD-V E 9c - TVöD-V E 11 | 49477 Ibbenbüren | 87 km | Hybrid | 27.11.2026 | 23.12.2026"
+    },
     {
       "id": "1516564",
       "url": "https://www.interamt.de/koop/app/stelle?id=1516564",
@@ -480,20 +536,6 @@
       "row_text": "1512278 Stellenausschreibung öffnen | GKD Recklinghausen, Zweckverband | Applikationsmanager:in Linux und Kubernetes (m/w/d) |  | TVöD-VKA E 10 - TVöD-VKA E 11 | 45665 Recklinghausen | 21 km | Hybrid | 13.11.2026 | 31.01.2027"
     },
     {
-      "id": "1512093",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1512093",
-      "employer": "Bundesanstalt für Finanzdienstleistungsaufsicht",
-      "title": "Informationssicherheitsspezialist*in (w/m/d) für den Bereich Informationssicherheitsmanagement",
-      "grade": "A14",
-      "pay": "TVöD-Bund E 13",
-      "location": "53117 Bonn",
-      "distance": "91 km",
-      "workplace": "Hybrid",
-      "posted": "13.11.2026",
-      "deadline": "26.11.2026",
-      "row_text": "1512093 Stellenausschreibung öffnen | Bundesanstalt für Finanzdienstleistungsaufsicht | Informationssicherheitsspezialist*in (w/m/d) für den Bereich Informationssicherheitsmanagement | A14 | TVöD-Bund E 13 | 53117 Bonn | 91 km | Hybrid | 13.11.2026 | 26.11.2026"
-    },
-    {
       "id": "1511957",
       "url": "https://www.interamt.de/koop/app/stelle?id=1511957",
       "employer": "Universität Duisburg-Essen",
@@ -534,48 +576,6 @@
       "posted": "12.11.2026",
       "deadline": "03.12.2026",
       "row_text": "1511522 Stellenausschreibung öffnen | Stadt Ratingen | Administrative Betreuung SAP (m/w/d) |  | TVöD-VKA E 11 | 40878 Ratingen | 50 km | Vor Ort | 12.11.2026 | 03.12.2026"
-    },
-    {
-      "id": "1511387",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1511387",
-      "employer": "Stadt Ratingen",
-      "title": "Zentrales Projektmanagement Digitalisierung (m/w/d)",
-      "grade": "",
-      "pay": "TVöD-VKA E 11",
-      "location": "40878 Ratingen",
-      "distance": "50 km",
-      "workplace": "Hybrid",
-      "posted": "11.11.2026",
-      "deadline": "02.12.2026",
-      "row_text": "1511387 Stellenausschreibung öffnen | Stadt Ratingen | Zentrales Projektmanagement Digitalisierung (m/w/d) |  | TVöD-VKA E 11 | 40878 Ratingen | 50 km | Hybrid | 11.11.2026 | 02.12.2026"
-    },
-    {
-      "id": "1510832",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1510832",
-      "employer": "Stadt Münster",
-      "title": "DevOps Engineer (m/w/d)",
-      "grade": "A13h - A16",
-      "pay": "TVöD-VKA E 9a - TVöD-VKA E 11",
-      "location": "48153 Münster",
-      "distance": "49 km",
-      "workplace": "Hybrid",
-      "posted": "11.11.2026",
-      "deadline": "29.11.2026",
-      "row_text": "1510832 Stellenausschreibung öffnen | Stadt Münster | DevOps Engineer (m/w/d) | A13h - A16 | TVöD-VKA E 9a - TVöD-VKA E 11 | 48153 Münster | 49 km | Hybrid | 11.11.2026 | 29.11.2026"
-    },
-    {
-      "id": "1509549",
-      "url": "https://www.interamt.de/koop/app/stelle?id=1509549",
-      "employer": "Bundesamt für Sicherheit in der Informationstechnik",
-      "title": "Sachbearbeitung (w/m/d) für Prozess- und Organisationsmanagement",
-      "grade": "A11",
-      "pay": "TVöD-Bund E 11",
-      "location": "53175 Bonn",
-      "distance": "94 km",
-      "workplace": "Hybrid",
-      "posted": "11.11.2026",
-      "deadline": "03.12.2026",
-      "row_text": "1509549 Stellenausschreibung öffnen | Bundesamt für Sicherheit in der Informationstechnik | Sachbearbeitung (w/m/d) für Prozess- und Organisationsmanagement | A11 | TVöD-Bund E 11 | 53175 Bonn | 94 km | Hybrid | 11.11.2026 | 03.12.2026"
     }
   ]
 }

@@ -1,12 +1,56 @@
 # INTERAMT – IT-Stellen im Umkreis von Dortmund
 
-Letzte Aktualisierung: 2026-11-26T15:50:28.742Z
+Letzte Aktualisierung: 2026-11-27T15:39:06.759Z
 
 Treffer: 40 – 100 km Luftlinie um 44135 Dortmund
 
-Angezeigt: 40 von 86 Treffern (maximal 40, neueste zuerst).
+Angezeigt: 40 von 87 Treffern (maximal 40, neueste zuerst).
 
 Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäftigte.
+
+## [1516827 – Sachbearbeiterinnen / Sachbearbeiter (w/m/d) im Referat T 33](https://www.interamt.de/koop/app/stelle?id=1516827)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: A12
+- Entgelt: TVöD-Bund E 12
+- Ort: 53175 Bonn
+- Entfernung: 94 km
+- Dienstort: Hybrid
+- Eingestellt: 27.11.2026
+- Bewerbungsfrist: 17.12.2026
+
+## [1516736 – Regierungsbeschäftigte / Regierungsbeschäftigter (m/w/d) für den Bereich Medientechnik im Dezernat 23.2](https://www.interamt.de/koop/app/stelle?id=1516736)
+
+- Arbeitgeber: Hochschule für Polizei und öffentl. Verwaltung NRW
+- Besoldung: –
+- Entgelt: TV-L E 10
+- Ort: 45886 Gelsenkirchen
+- Entfernung: 24 km
+- Dienstort: Hybrid
+- Eingestellt: 27.11.2026
+- Bewerbungsfrist: 11.01.2027
+
+## [1516624 – Referentin/Referent (w/m/d) im Referat W 15 "KRITIS-Sektor Gesundheit und zentrale Nachweiseinreichung" BSI-2026-137](https://www.interamt.de/koop/app/stelle?id=1516624)
+
+- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
+- Besoldung: A13h
+- Entgelt: TVöD-Bund E 13
+- Ort: 53175 Bonn
+- Entfernung: 93 km
+- Dienstort: Hybrid
+- Eingestellt: 27.11.2026
+- Bewerbungsfrist: 14.12.2026
+
+## [1179842 – Anwendungsbetreuer/in (m/w/d) für kommunale Fachverfahren](https://www.interamt.de/koop/app/stelle?id=1179842)
+
+- Arbeitgeber: Zweckverband KAAW
+- Besoldung: –
+- Entgelt: TVöD-V E 9c - TVöD-V E 11
+- Ort: 49477 Ibbenbüren
+- Entfernung: 87 km
+- Dienstort: Hybrid
+- Eingestellt: 27.11.2026
+- Bewerbungsfrist: 23.12.2026
 
 ## [1516564 – Referentin/Referent (w/m/d) im Bereich Automotive Security](https://www.interamt.de/koop/app/stelle?id=1516564)
 
@@ -371,17 +415,6 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Eingestellt: 13.11.2026
 - Bewerbungsfrist: 31.01.2027
 
-## [1512093 – Informationssicherheitsspezialist\*in (w/m/d) für den Bereich Informationssicherheitsmanagement](https://www.interamt.de/koop/app/stelle?id=1512093)
-
-- Arbeitgeber: Bundesanstalt für Finanzdienstleistungsaufsicht
-- Besoldung: A14
-- Entgelt: TVöD-Bund E 13
-- Ort: 53117 Bonn
-- Entfernung: 91 km
-- Dienstort: Hybrid
-- Eingestellt: 13.11.2026
-- Bewerbungsfrist: 26.11.2026
-
 ## [1511957 – Fachberater\*in HPC (HPC-Consultant) (w/m/d) für das hpcFachCluster.nrw@UARuhr](https://www.interamt.de/koop/app/stelle?id=1511957)
 
 - Arbeitgeber: Universität Duisburg-Essen
@@ -413,38 +446,5 @@ Bereich: IT und Telekommunikation. Dienstverhältnis: Beamte oder Tarifbeschäft
 - Entfernung: 50 km
 - Dienstort: Vor Ort
 - Eingestellt: 12.11.2026
-- Bewerbungsfrist: 03.12.2026
-
-## [1511387 – Zentrales Projektmanagement Digitalisierung (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1511387)
-
-- Arbeitgeber: Stadt Ratingen
-- Besoldung: –
-- Entgelt: TVöD-VKA E 11
-- Ort: 40878 Ratingen
-- Entfernung: 50 km
-- Dienstort: Hybrid
-- Eingestellt: 11.11.2026
-- Bewerbungsfrist: 02.12.2026
-
-## [1510832 – DevOps Engineer (m/w/d)](https://www.interamt.de/koop/app/stelle?id=1510832)
-
-- Arbeitgeber: Stadt Münster
-- Besoldung: A13h - A16
-- Entgelt: TVöD-VKA E 9a - TVöD-VKA E 11
-- Ort: 48153 Münster
-- Entfernung: 49 km
-- Dienstort: Hybrid
-- Eingestellt: 11.11.2026
-- Bewerbungsfrist: 29.11.2026
-
-## [1509549 – Sachbearbeitung (w/m/d) für Prozess- und Organisationsmanagement](https://www.interamt.de/koop/app/stelle?id=1509549)
-
-- Arbeitgeber: Bundesamt für Sicherheit in der Informationstechnik
-- Besoldung: A11
-- Entgelt: TVöD-Bund E 11
-- Ort: 53175 Bonn
-- Entfernung: 94 km
-- Dienstort: Hybrid
-- Eingestellt: 11.11.2026
 - Bewerbungsfrist: 03.12.2026
 
